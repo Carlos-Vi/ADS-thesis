@@ -1,0 +1,155 @@
+1. Study reference
+Bremner, 2018
+
+---
+
+2. Study characteristics
+Type of study:
+a randomized noninferiority
+Study. 
+
+Setting and country:
+USA 
+
+Funding and conflicts of interest:
+This study was funded by GSK (GSK study CTT200812; ClinicalTrials.gov identifier
+NCT02729051). ELLIPTA is owned by or licensed to the GSK group of companies. RB, NB, ASI, C-QZ, and DAL are employees of GSK and hold stocks/shares in
+the company. ASI is also an unpaid faculty member at McMaster University,
+
+Canada. PRB has no conflicts of interest to disclose.
+
+---
+
+3. Patient characteristics 2 
+Inclusion criteria:
+COPD Assessment Test™ (CAT) score ≥ 10 [13, 14];
+a post-albuterol/salbutamol FEV1/forced vital capacity ratio
+< 0.70; and a post-bronchodilator FEV1 < 50% of predicted
+and ≥1 moderate/severe exacerbation in the previous
+12 months or a post-bronchodilator FEV1 ≥ 50% to < 80%
+of predicted and ≥2 moderate exacerbations or ≥1 severe
+exacerbation requiring hospitalization in the previous
+12 months.
+
+Exclusion criteria:
+a current diagnosis of asthma
+(patients with a prior history of asthma were eligible if they
+had a current diagnosis of COPD that was the primary cause
+of their respiratory symptoms); α1-antitrypsin deficiency; active tuberculosis; other respiratory disorders that were the
+primary cause of respiratory symptoms; lung resection surgery
+in the previous 12 months; risk factors for pneumonia
+(including immunosuppression and neurological disorders
+affecting control of the upper airway [e.g. Parkinson’s disease
+or myasthenia gravis]; pneumonia and/or moderate/severe
+exacerbation that had not resolved at least 14 days prior to
+screening; respiratory infections; abnormal findings on chest
+X-ray; clinically significant comorbidities; unstable liver or
+cardiac disease; and cancer. Patients with a high risk for
+pneumonia (e.g. very low body mass index, severely malnourished,
+or very low FEV1) were only to be included at
+the discretion of the investigator.
+
+N total at baseline:
+Intervention: 527
+Control: 528
+
+Important prognostic factors2:
+age ± SD:
+I: 66.7 ± 8.5
+C: 65.9 ± 8.8
+
+Sex: 
+I: 74% M
+C: 75% M
+
+Groups comparable at baseline?
+Yes
+
+
+---
+
+4. Intervention (I)
+24 weeks of FF/UMEC/VI 100 μg/62.5 μg/25 μg in a single inhaler and placebo (second inhaler). all treatments/placebo
+were delivered using the ELLIPTA inhaler once daily in the morning.
+
+
+---
+
+5. Comparison / control (C) 3
+
+24 weeks of FF/VI 100 μg/25 μg and UMEC 62.5 μg, in separate inhalers. all treatments/placebo were delivered using the ELLIPTA inhaler once daily in the
+morning.
+
+
+---
+
+6. Follow-up
+Length of follow-up:
+One week after treatment. 
+
+Loss-to-follow-up:
+Intervention: 6%
+Reasons: n.r.
+
+Control: 6%
+Reasons: n.r. 
+
+Incomplete outcome data: 
+n.r.
+
+
+
+---
+
+7. Outcome measures and effect size 4 
+COPD exacerbations rate
+Defined as the number of exacerbations.
+
+Effect measure: Risk ratio [95% CI]:
+0.91 [95% CI: 0.74 to 1.12]  in favour of fixed triple therapy.
+
+Mortality
+n.r.
+
+Quality of life
+Defined as the proportion of responders to the SGRQ.
+
+Effect measure: Risk ratio [95% CI]: 
+0.98 [95% CI 0.97 to 1.10] in favour of fixed triple therapy.
+
+FEV1
+Defined as the between treatment difference in FEV1
+
+Effect measure: mean difference [95% CI]
+18 mL [95% CI -13 to 50] in favour of fixed triple therapy. 
+
+Pneumonia
+Defined as the number of participants with pneumonia.
+
+Effect measure: Risk ratio [95% CI]:
+
+
+Serious adverse events
+Defined as the number of serious adverse events.
+
+Effect measure: Risk ratio [95% 
+Pneumonia: 
+0.67 [0.34 to 1.30] in favour of fixed triple therapy.
+
+Other SAEs
+0.91 [95% CI 0.64 to 1.30] in favour of fixed triple therapy.
+
+---
+
+8. Comments
+This study showed that single-inhaler FF/UMEC/VI
+100 μg/62.5 μg/25 μg was non-inferior to FF/VI 100 μg/
+25 μg plus UMEC 62.5 μg based on change from baseline
+in trough FEV1 at Week 24 in patients with advanced
+COPD. Our findings confirm that single-inhaler triple
+therapy with FF/UMEC/VI offers similar efficacy, healthrelated
+quality of life, and safety benefits as the same triple
+therapy administered using two inhalers.
+
+---
+

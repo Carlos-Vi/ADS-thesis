@@ -1,0 +1,111 @@
+1. Study reference
+Bashir, 2018
+
+---
+
+2. Study characteristics
+Type of study:
+RCT
+
+Setting and country:
+- Inpatients, tertiary care hospital
+- India
+
+Funding and conflicts of interest:
+None
+
+---
+
+3. Patient characteristics 2 
+Inclusion criteria:
+Previously healthy infants and children of two months to 18 months of age, getting admitted with first episode of respiratory tract infection with wheeze, starting as a viral upper respiratory infection (coryza, cough, or fever), and a clinical score between 4 and 8 were included in the study.
+
+Exclusion criteria:
+Includes a history of any of the following: previous episode of wheezing, chronic cardiopul monary disease or immunodeficiency; critical illness at presentation requiring admission to intensive care; the use of nebulised HS within the previous 12 hours; or premature birth (gestational age 34 weeks).
+
+N total at baseline: 189
+Intervention: 96
+Control: 93
+
+Important prognostic factors2:
+age median months (IQR):
+I: 4.0 (2.63-8.0)
+C: 4.0 (2.0-7.0)
+
+Sex % M:
+I: 64.6%
+C: 69.9%
+
+Groups comparable at baseline?
+yes
+
+---
+
+4. Intervention (I)
+Treatment with 4 mL of nebulised study solution containing 3% HS.
+
+Every two hourly for three doses, followed by every four hourly for six doses, followed by every six hourly until discharge.
+
+
+
+
+---
+
+5. Comparison / control (C) 3
+
+Treatment with 4 mL of nebulised study solution containing 0.9% NS.
+
+Every two hourly for three doses, followed by every four hourly for six doses, followed by every six hourly until discharge.
+
+---
+
+6. Follow-up
+Length of follow-up:
+Until hospital discharge.
+
+Loss-to-follow-up / incomplete data:
+Five infants (one from the HS group and four from the NS group) were withdrawn before study completion but were included in the final intention to treat analysis and were counted as treatment failures.
+
+---
+
+7. Outcome measures and effect size 4 
+Discharge within 1 day, n (%), RR (95%CI)
+I: 55 (57.3%)
+C: 4 (4.3%)
+13.32 (5.03; 35.28), p<.0001
+
+Discharge within 2 days, n (%), RR (95%CI)
+I: 94 (97.92%)
+C: 59 (63.44%)
+1.54 (1.32: 1.81), p<.0001
+
+Discharge within 3 days, n (%), RR (95%CI)
+I: 96 (100%)
+C: 90 (96.77%)
+1.03 (0.996; 1.072), p=0.083
+
+100% Discharge within 4 days for all.
+
+LOS mean days (SD)
+I: 1.45 (0.54) 
+C: 2.35 (0.62)
+p<.001
+
+Reduction in Wang clinical severity score within 48 hours, mean (SD)
+I: 2.26 (0.68)
+C: 1.23 (0.49)
+p<0.001 favouring 3% HS group
+
+---
+
+8. Comments
+Children showing worsening of clinical scores and general condition during the course of the stay were excluded from the study and treated as the condition necessitates. However, these patients were included in the final analysis and were counted as treatment failures.
+
+Criteria for discharge: patients were discharged once they were off oxygen support, maintaining saturations without any respiratory distress and accepting feeds well.
+
+There were no adverse events noted in either of the groups in present study.
+
+Article conclusion: This study demonstrates that 3% HS nebulisation is safe and effective treatment for infants up to the age of 18 months hospitalised with acute bronchiolitis and decreases hospital stay by about one day.
+
+---
+

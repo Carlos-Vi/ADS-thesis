@@ -1,0 +1,67 @@
+1. Study reference
+Raeisi, 2019
+
+---
+
+2. Study characteristics
+"Type of study:
+Single center double-blind randomized clinical trial 
+
+Setting and country:
+Emergency department or ward of Masih Daneshvery Hospital, Iran 
+
+Funding and conflicts of interest:
+Funded by the National Research Institute of Tuberculosis and Lung Disease (NRITLD)"
+
+---
+
+3. Patient characteristics 2 
+"Inclusion criteria:
+Adult patients with a clinical diagnosis of moderate to severe asthma." 
+
+"Exclusion criteria:
+Pregnancy, patients who smoked, occupational asthma, hypercapnic respiratory failure, or infiltration in the chest X-ray" 
+
+"n: 40 (I: 20, C: 20); age: I 51 C 44 (sd: I 11 C 12) 
+
+Sex (% male): I: 25%; C: 35% 
+
+Groups comparable at baseline: reasonably"
+
+---
+
+4. Intervention (I)
+High-flow oxygen (flow rate 15-35 L/min at 37 degrees Celcius) through a nasal canula, to achieve oxygen saturation of >94% and a relative humidity of 30-34%, in addition to conventional asthma exacerbation treatment.
+
+---
+
+5. Comparison / control (C) 3
+Oxygen therapy via nasal canula (flow rate 2-5 L/min) to achieve oxygen saturation of >94%, in addition to conventional asthma attack treatment.
+
+---
+
+6. Follow-up
+"Duration of follow-up: Duration of follow-up: Unclear
+
+Loss-to-follow-up (n, reason): I: 0, na; 
+
+C: 0, na
+
+Incomplete outcome data (n, reason): I: 0, na; 
+
+C: 1, refractory asthma (pO2<85%)"
+
+---
+
+7. Outcome measures and effect size 4 
+Treatment failure: one patient in control group (95% CI: na)
+
+Difference: 5% (95% CI: -12 to 24) (calculated by TC, Kennisinstituut, Federatie Medisch Specialisten)
+
+---
+
+8. Comments
+No comparative analysis performed, furthermore a reasonably designed study in a small number of patients.
+
+---
+

@@ -1,0 +1,168 @@
+1. Study reference
+Uysalol, 2017
+
+---
+
+2. Study characteristics
+Type of study:
+RCT
+
+Setting and country:
+- Emergency Department (ED)
+- Turkey
+
+Funding and conflicts of interest:
+Not reported
+
+---
+
+3. Patient characteristics 2 
+Inclusion criteria:
+Children with acute bronchiolitis, aged between 2-24 months with a score as moderate (4-8) in the bronchiolitis clinical score (BCS) system were included.
+
+Exclusion criteria:
+Exclusion criteria were being younger than 2 months old, prematurity (less than 36th gestational week), low birth weight (less than 2,500 g), history of admission in neonatal intensive care unit due to respiratory distress, history of intubation in the intensive care unit, congenital heart/lung/neurologic or immunologic disease, history of atopic disease or recurrent wheezing, clinical or radiologic findings of bacterial infections, atelectasis or consolidations on X-ray and refusal to consent by parents.
+
+N total at baseline:
+- 386 patients were randomized.
+- 378 patients were able to complete the trial and only these were included in statistical analyses.
+
+Intervention: 
+Group 1 (HS): 77
+Group 2 (ADR): 75
+Group 3 (ADR+HS): 75
+Group 4 (Salbutamol): 72
+
+Control:
+Group control (NS): 79
+
+Important prognostic factors2:
+age months, Median (IQR):
+I: 7 (4-10) months (all groups the same)
+C: 7 (4-10) months
+
+Sex % M:
+Intervention: 
+Group 1 (HS): 55.8%
+Group 2 (ADR): 54.7%
+Group 3 (ADR+HS): 54.7%
+Group 4 (Salbutamol): 54.2%
+
+Control:
+Group control (NS): 54.4%
+
+Groups comparable at baseline?
+Yes
+
+---
+
+4. Intervention (I)
+Drugs were administered by means of standard hospital nebulizers through a firmly applied face mask with an oxygen flow of 6 liters per minute within 6-8 minutes.
+
+Administration at at 0, 30, and 60 minutes, and every 4 hours thereafter if needed to a maximum of 24 h.
+
+
+Group 1: 3% hypertonic saline (HS); Group HS was given 4 ml HS
+
+Group 2: nebulized adrenaline (ADR); group ADR received 4 ml NS with ADR 0.1 mg/kg
+
+Group 3: nebulized adrenaline mixed with 3% hypertonic saline (ADR+HS); group ADR+HS received 4 ml HS with 0.1 mg/kg/dose ADR
+
+Group 4: nebulized salbutamol; group Salbutamol had nebulized salbutamol 0.15 mg/kg with 4 ml NS
+
+
+
+---
+
+5. Comparison / control (C) 3
+
+Control Group: normal saline (0.9% NaCl) (NS); group NS was administered 5 ml NS
+
+Administration at at 0, 30, and 60 minutes, and every 4 hours thereafter if needed to a maximum of 24 h.
+
+
+
+---
+
+6. Follow-up
+Length of follow-up:
+Readmission to the hospital within first 15 days was recorded.
+
+Loss-to-follow-up / incomplete data:
+During the study, infants whose BCS had deteriorated worse than 9 were excluded from the study (2 in HS group, 1 in ADR group, 2 in salbutamol group and 3 in NS group). At the end, 378 patients were able to complete the trial
+
+NB: Only those who completed the study were included in the analyses.
+
+---
+
+7. Outcome measures and effect size 4 
+Comparison of Discharge Rates at 4 Hours of Treatment Options (Reference Group: Normal saline)
+Odds Ratio (OR), 95%CI
+Group 1 (HS): 1.595 (0.841; 3.024)
+p=0.153
+Group 2 (ADR): 2.194 (1.150; 4.186)
+p=0.017
+Group 3 (ADR+HS): 3.898 (1.993; 7.625)
+p<0.001
+Group 4 (Salbut): 1.034 (0.534; 2.004)
+p=0.920
+
+
+Discharge rate at 4 hrs, n (%)
+Intervention: 
+Group 1 (HS): 37/77 (48.1%)
+Group 2 (ADR): 42/75 (56%)
+Group 3 (ADR+HS): 52/75 (69.3%)
+Group 4 (Salbut): 27/72 (37.5%)
+Control:
+Group control (NS): 29/79 (36.7%)
+p=0.001
+
+Discharge rate at 24 hrs, n (%)
+Intervention: 
+Group 1 (HS): 69 (77%)
+Group 2 (ADR): 66 (88%)
+Group 3 (ADR+HS): 71 (94.7%)
+Group 4 (Salbut): 63 (87.5%)
+Control:
+Group control (NS): 66 (83.5%)
+p=0.294
+
+Length of Stay (LOS)  (hours), median (IQR)
+Intervention: 
+Group 1 (HS): 8 (12)
+Group 2 (ADR): 4 (12)
+Group 3 (ADR+HS): 4 (8)
+Group 4 (Salbut): 16 (20)
+Control:
+Group control (NS): 16 (20)
+p=0.039
+
+Adverse events (tachycardia, pallor, tremor, nausea, vomiting), n (%)
+Intervention: 
+Group 1 (HS): 0 (0%)
+Group 2 (ADR): 7 (9.3%)
+Group 3 (ADR+HS): 5 (6.7%)
+Group 4 (Salbut): 7 (9.7%)
+Control:
+Group control (NS): 2 (2.5%)
+p=0.079
+
+
+---
+
+8. Comments
+Primary outcomes: LOS and Discharge rate.
+The study was not powered to detect differences in secondary outcome measures.
+
+Only those who completed the study were included in the analyses.
+
+Criteria for discharge:
+Infants were evaluated using BCS at 4-hour intervals and a score less than 3 were considered for discharge decision.
+
+Article conclusion: Nebulized adrenaline mixed with 3% hypertonic saline, as compared with other options, were associated with a significantly higher discharge rate at 4th hours (p<0.001) and shorter length of hospital stay (p=0.039). However, there was no significant difference between options with regard to adverse events, discharge rates at 24th hours, and readmission rates within the first fifteen days.
+
+
+
+---
+

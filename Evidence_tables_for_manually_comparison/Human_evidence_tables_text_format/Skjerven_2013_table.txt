@@ -1,0 +1,202 @@
+1. Study reference
+Skjerven,  2013
+
+---
+
+2. Study characteristics
+Type of study:
+RCT
+
+Setting and country:
+- Inpatients
+- Norway
+
+Funding and conflicts of interest:
+Supported by Medicines for Children, a publicly funded body
+administered by Haukeland University Hospital.
+Disclosure forms provided by the authors are available with
+the full text of this article at NEJM.org.
+
+---
+
+3. Patient characteristics 2 
+Inclusion criteria:
+The inclusion criteria were clinical signs of bronchiolitis as defined by Court, Med J 1973;49:771-6, an
+age of less than 12 months, and an overall clinical score of at least 4 on a scale of 0 to 10. The clinical score was the sum of points allotted, from 0 (indicating normal findings) to 2 (indicating severe illness), for each of the following: general condition, skin color, findings on auscultation,
+respiratory rate, and retractions.
+
+Exclusion criteria:
+The exclusion criteria were the presence of any serious cardiac, immunologic, neurologic, or oncologic disease or any serious pulmonary disease other than bronchiolitis; more than one previous episode of obstructive airway disease; symptoms of disease of the lower airway (e.g., coughing) for more than 4 weeks; and receipt of any glucocorticoid therapy in the preceding 4 weeks.
+
+N total at baseline: 404 Infants underwent randomization
+
+Intervention: 
+- adrenaline on demand: 102
+- adrenaline fixed schedule: 101
+
+Control: 
+- NS on demand: 98
+- NS fixed schedule: 103
+
+Important prognostic factors2:
+age days, Mean  (SD):
+Intervention: 
+- adrenaline on demand: 134.9±91.6
+- adrenaline fixed schedule: 116.9±87.8
+
+Control: 
+- NS on demand: 117.8±68.1
+- NS fixed schedule: 136.0±97.0
+
+Sex % M:
+Intervention: 
+- adrenaline on demand: 63 (61.8)
+- adrenaline fixed schedule: 60 (59.4)
+
+Control: 
+- NS on demand: 54 (55.1)
+- NS fixed schedule: 63 (61.2)
+
+Groups comparable at baseline?
+yes
+
+---
+
+4. Intervention (I)
+10 ml of racemic adrenaline dissolved in
+0.9% saline to form a solution of 20 mg per milliliter.
+
+on demand or on a fixed schedule
+
+The dose administered was based on the infant’s weight: 0.10 ml for infants weighing less
+than 5 kg, 0.15 ml for those weighing 5 to 6.9 kg, 0.20 ml for those weighing 7 to 9.9 kg, and 0.25 ml for those weighing 10 kg or more. The medications were diluted in 2 ml of saline before
+nebulization and were administered with a Respironics
+Facemask.
+
+No other inhaled medications, with the exception of 0.9% inhaled saline could be administered during the period when the infant was participating in the trial. Supportive
+therapy and any other treatments were provided
+in accordance with routine care. 
+
+
+---
+
+5. Comparison / control (C) 3
+
+0.9% saline alone.
+
+The medications were diluted in 2 ml of saline before
+nebulization and were administered with a Respironics
+Facemask.
+
+on demand or on a fixed schedule
+
+No other inhaled medications, with the exception of 0.9% inhaled saline could be administered during the period when the infant was participating in the trial. Supportive
+therapy and any other treatments were provided
+in accordance with routine care. 
+
+
+---
+
+6. Follow-up
+Follow-up:
+No Follow-up, only monitored children until discharge. 
+
+Inclomplete data:
+Intervention: 
+- adrenaline on demand
+17 Discontinued study
+11 Had treatment
+failure
+4 Were withdrawn by
+parent
+2 Were inappropriately
+Withdrawn
+
+- adrenaline fixed schedule
+19 Discontinued study
+12 Had treatment
+failure
+2 Had side effects
+4 Were withdrawn by
+parent
+1 Was inappropriately
+Withdrawn
+
+167 Completed inhaled RA
+
+Control: 
+- NS on demand
+20 Discontinued study
+15 Had treatment
+failure
+1 Had side effects
+3 Were withdrawn by
+parent
+1 Was inappropriately
+Withdrawn
+
+- NS fixed schedule
+27 Discontinued study
+21 Had treatment
+failure
+5 Were withdrawn by
+parent
+1 Was inappropriately
+Withdrawn
+
+154 Completed inhaled saline
+
+The study medication was discontinued
+in 83 children (20.5%) for the reasons listed above.
+
+321 Completed study
+
+
+---
+
+7. Outcome measures and effect size 4 
+LOS in hours
+The mean (±SD) length of stay for all infants was 80±67 hours
+
+I: Inhaled Racemic Adrenaline (N=203), Mean (range)
+63.6 (46.2 to 81.0)
+
+C: Inhaled Saline (N=201), Mean (range)
+68.1(49.8 to 86.4)
+
+Mean difference (95% CI): 4.5 (-6.5; 15.5)
+P=0.42
+
+change in the clinical
+score 30 minutes after the first inhalation
+
+I: Inhaled Racemic Adrenaline (N=203), Mean (range)
+-1.26 (-1.44; -1.08)
+
+C: Inhaled Saline (N=201), Mean (range)
+-1.08 (-1.23;-0.92)
+
+Mean difference (95% CI): Not reported.
+
+Ventilatory support
+I : Inhaled Racemic Adrenaline (N=203), n/N (%)
+15/203 (7.4)
+
+C: Inhaled Saline (N=201), n/N (%)
+15/201 (7.5)
+
+Rate Ratio (95% CI): 0.99 (0.50 to 1.97)
+
+
+---
+
+8. Comments
+The primary outcome, length of hospital stay, was defined as the time from the first study inhalation until discharge from the hospital.
+No serious adverse events were reported. Three
+children (including one who was receiving inhaled
+saline) discontinued treatment because of moderate tachycardia, which may have been due to the study medication.
+
+Article conclusion: There was no significant difference in length of hospital stay between children treated with inhaled racemic adrenaline and those treated with inhaled saline (P = 0.43). There were also no significant between-group differences in the use of nasogastric-tube feeding, supplemental oxygen, or ventilatory support; clinical scores before and after the first inhalation of the study medication; or the number of children in whom the study medication was discontinued.
+
+---
+

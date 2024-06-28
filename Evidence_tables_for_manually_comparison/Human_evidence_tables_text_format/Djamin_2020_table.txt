@@ -1,0 +1,71 @@
+1. Study reference
+Djamin 2020
+
+---
+
+2. Study characteristics
+RCT
+
+COLUMBUS trial
+
+single centre study
+
+the Netherlands
+
+---
+
+3. Patient characteristics
+
+
+---
+
+4. Intervention (I)
+azithromycin maintenance therapy 
+45 patients
+
+---
+
+5. Comparison / control (C)
+
+Placebo 
+47 patients
+
+---
+
+6. Follow-up
+throat samples (e-swabs)
+were collected at baseline, 6 months and 12 months, as
+well as during each exacerbation that required admission to the hospital
+
+---
+
+7. Outcome measures and effect size
+the presence and relative abundance of specific macrolide resistance genes ermB, ermF and mefA
+
+Real-time PCR
+
+macrolide resistance gene mefA was present in all
+available throat samples at all time points
+
+Before treatment, 
+prevalence of the macrolide resistance genes ermF and ermB were respectively 44.4% (n = 16/36)
+and 86.1% (n = 31/36) in the placebo group (n = 36), and
+respectively 59.1% (n = 26/44) and 97.7% (n = 43/44) in the
+azithromycin group
+After 12months of placebo treatment ermF
+and ermB genes were detected in 48.1% (n = 13/27) and 74.1%
+(20/27)
+
+
+---
+
+8. Comments
+AIM: to determine
+the effect of azithromycin maintenance therapy on the
+dynamics of macrolide resistance genes in the
+pharyngeal microbiota of COPD patients
+
+original report RCT (Uzun 2014) included in Cochrane review Herath 2018 
+
+---
+

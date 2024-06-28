@@ -1,0 +1,70 @@
+1. Study reference
+Ruangsomboon, 2021
+
+---
+
+2. Study characteristics
+"Type of study:
+Single-center open label randomised controlled trial 
+
+Setting and country:
+Emergency department of Siriraj Hospital, a tertiary university hospital in Bangkok, Thailand 
+
+Funding and conflicts of interest:
+Fisher & Paykel Healthcare provided the NHF devices. The company played no role in the trial design, data collection, data analysis, or manuscript preparation."
+
+---
+
+3. Patient characteristics 2 
+"Inclusion criteria:
+Adult patients with a known diagnosis of asthma, admitted to the ED with symptoms of an acute asthma exacerbation (defined as having a progressive increase in shortness of breath, cough and wheezing, and chest tightness) and hypoxia (defined as an oxygen saturation of <95%)
+
+Exclusion criteria:
+Respiratory failure (respiratory rate >35 breaths/minute or oxygen saturation <90% or signs of increased work of breathing), a Glasgow Coma Scale score of <13, contraindications for using airway pressurizing therapy, COPD, history of smoking >5 pack-years, lung cancer.
+
+n: 37 (I: 19, C: 18); age: I 64 C 63 (sd: I 17 C 22) 
+
+Sex (% male): I: 16%; C: 17% 
+
+Groups comparable at baseline: yes"
+
+---
+
+4. Intervention (I)
+High-flow oxygen therapy using an Optiflow nasal canula at airflow of 35 L/min initially to achieve a O2 saturation of 95-99% or 90-92% if the initial saturation was <92%, in addition to conventional asthma exacerbation treatment.
+
+---
+
+5. Comparison / control (C) 3
+Standard oxygen nasal canula or nonrebreather mask, in addition to conventional asthma exacerbation treatment.
+
+---
+
+6. Follow-up
+"Duration of follow-up: Duration of follow-up: During hospital stay
+
+Loss-to-follow-up (n, reason): I: 1, Patient was intubated; 
+
+C: 1, Patient was intubated
+
+Incomplete outcome data (n, reason): I: 0, na; 
+
+C: 0, na"
+
+---
+
+7. Outcome measures and effect size 4 
+Treatment failure: I: 5.6%; C 5.6%, p=0.97 (95% CI: na) (percentage for intervention group was reported incorrectly, should be 5.3%)
+Difference: 0.29% (95% CI: -20 to 21) (calculated by TC, Kennisinstituut, Federatie Medisch Specialisten)
+
+ED stay duration (hours): I: 4.4 (3.2-10.1); C: 6.8 (4.9-11.6), p=0.26 (95% CI: na)
+
+Hospitalisation duration (hours): I: 9.6 (4.5-67.2); C: 12.0 (4.8-69.6), p=0.87 (95% CI: na)
+
+---
+
+8. Comments
+Only p-values reported, furthermore a reasonably designed study in a small number of patients.
+
+---
+

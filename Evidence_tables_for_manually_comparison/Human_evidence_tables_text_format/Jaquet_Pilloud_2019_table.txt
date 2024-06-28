@@ -1,0 +1,173 @@
+1. Study reference
+Jaquet-Pilloud, 2020
+
+---
+
+2. Study characteristics
+Type of study:
+RCT
+
+Setting and country:
+- Inpatients
+- Switzerland
+
+Funding and conflicts of interest:
+
+Funding: The authors have not declared a specific grant for this research from any
+funding agency in the public, commercial or not-for-profit sectors.
+Competing interests: None declared.
+
+---
+
+3. Patient characteristics 2 
+Inclusion criteria:
+Eligible patients included children aged from 6 weeks up to 24
+months coming to the emergency department (ED) with a first
+episode of acute bronchiolitis, defined as symptoms of upper
+respiratory tract infection in addition to tachypnoea, wheezing
+and widespread crackles at auscultation. Further inclusion
+criteria were a Wang Score of 5–12 (moderate to severe) on
+arrival.
+
+Exclusion criteria:
+Exclusion criteria were children with mild bronchiolitis (Wang
+Score <5), previous episodes of wheezing, cardiac or chronic
+respiratory disease, immunocompromised children, gestational
+age <34 weeks and children with critical illness requiring
+immediate admission to intensive care unit (ICU). Children
+who received RSV immunoglobulin therapy, corticotherapy in
+any form in the preceding 2 weeks or bronchodilators within
+24 hours prior to presentation, were also excluded.
+
+N total at baseline: 
+- 122 were randomized 
+- 120 in analyses
+
+Intervention: 
+61 randomized, 60 in analyses
+
+Control: 
+61 randomized, 60 in analyses
+
+Important prognostic factors2:
+age Mean months (95% CI):
+I: 7.7 (6.4; 9.1)
+C: 7.5 (6.2; 8.9)
+
+Sex % M:
+I: 39 (64%)
+C: 37 (63%)
+
+Wang severity score, N (%)
+I: 15 (24%)
+C: 14 (23%)
+
+Wang severity score, N (%)
+I: 46 (76%)
+C: 45 (77%)
+
+Groups comparable at baseline?
+yes
+
+---
+
+4. Intervention (I)
+HS 3% Group received 4 mL of NaCl 3% (MucoClear 3%) every 6 hours until discharge in addition to standard care.
+
+Standard therapy
+includes suctioning nasal secretions, water-electrolyte balance
+maintenance and oxygen supplementation when needed.
+
+If any child showed signs of respiratory failure including
+either persistent major respiratory distress, signs of exhaustion
+with a partial pressure of carbon dioxide above >50 mm Hg on the capillary blood gas, a nebulisation of 4 mg of epinephrine
+was given.
+Nebulised epinephrine could be administered up to three
+times within the hour. If respiratory failure continued despite a total of three nebulisations
+of epinephrine / in the absence of response, the patient was
+admitted to ICU.
+
+
+
+
+---
+
+5. Comparison / control (C) 3
+
+Standard Care group with no inhalation.
+
+Standard therapy
+includes suctioning nasal secretions, water-electrolyte balance
+maintenance and oxygen supplementation when needed.
+
+If any child showed signs of respiratory failure including
+either persistent major respiratory distress, signs of exhaustion
+with a partial pressure of carbon dioxide above >50 mm Hg on the capillary blood gas, a nebulisation of 4 mg of epinephrine
+was given.
+Nebulised epinephrine could be administered up to three
+times within the hour. If respiratory failure continued despite a total of three nebulisations
+of epinephrine / in the absence of response, the patient was
+admitted to ICU.
+
+
+---
+
+6. Follow-up
+Length of follow-up:
+Readmission rate in the next 7 days following
+discharge from hospital was studied.
+
+Loss-to-follow-up:
+None
+
+Incomplete data: 
+HS was discontinued in 10 patients at parents’ request (sleep preservation (n=5), agitation with the inhalation facemask
+(n=5).
+
+Two patients were excluded after randomisation, one for misdiagnosis (pneumonia) and the other for decompensation of
+an unknown neurological disease and excluded from the intention to treat analyses. 
+
+---
+
+7. Outcome measures and effect size 4 
+Hospital LOS (hours), Mean (95% CI)
+I: 47 (39; 56)
+C: 50.4 (39; 61)
+Difference -2.8 (-11; 16)
+p=0.33 
+
+Duration oxygen therapy (hours), mean (95% CI)
+I: 29.5 (22; 36)
+C: 31.1 (22; 39)
+Difference -1.5 (-9.6; 12) 
+p=0.6
+
+Transfers to PICU, N (%)
+I: 0 (0%)
+C: 3 (5%)
+RR: 0.138 (95%CI 0.007; 2.620)
+p=0.187
+
+Racemic epinephrine nebulisation rescue therapy, N (%)
+I: 5 (8.2)
+C (9 (15%)
+RR: 0.537 (95%CI 0.191; 1.510)
+p=0.239
+
+
+---
+
+8. Comments
+No serious adverse events were observed (bronchospasm, excessive
+coughing, infection, apnoea and cyanosis) during the study.
+
+Authors report: Sixty-one patients were allocated to the intervention group
+(HS) and 61 were allocated to the control group (standard care alone). One hundred and twenty patients completed the whole study. 
+However, all Tables in article state that the HS group analyses were with n=61 and the standard care group with n=59 => included N is unclear.
+
+Article conclusion: There were no differences in oxygen therapy duration, transfer to ICU, readmission rate or adverse events. Study does not support the use of
+HS nebulisation in children with moderate to severe
+bronchiolitis. 
+
+---
+

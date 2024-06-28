@@ -1,0 +1,157 @@
+1. Study reference
+Risom, 2020
+
+---
+
+2. Study characteristics
+Type of study: RCT
+
+Setting and country: university hospital, Denmark
+
+Funding and conflicts of interest: Non-commercial
+
+---
+
+3. Patient characteristics
+Inclusion criteria: Patients treated with ablation for AF, 18 years of age and Danish speaking.
+
+Exclusion criteria:
+Patients unable to understand trial instructions, pregnant or breastfeeding, reduced ability to follow the planned program due to other physical illness, engaged in intense physical exercise or sports at a competitive level, patients who did not wish to participate, or were enrolled in a clinical trial that prohibited participation in addi- tional trials.
+
+N total at baseline:
+Intervention: 105
+Control: 105 
+
+Important prognostic factors2:
+Age ± SD:
+I: 60 (±9)
+C: 59 (±12.25)
+
+Sex: 
+I: 70% M
+C: 73% M
+
+Percentage smokers (current):
+I:2%
+C:3%
+
+Groups comparable at baseline? yes
+
+
+---
+
+4. Intervention (I)
+Physical exercise and psychoeducational consultations. 
+Physical exercise: A 12-week physical exercise program aimed at increasing exercise capacity.
+Psychoeducational consultations provided emotional support and aimed to improve coping skills and illness appraisal to enable the patients to respond appropriately to physical and psychological symptoms.
+
+---
+
+5. Comparison / control (C)
+
+No cardiac rehabilitation
+
+---
+
+6. Follow-up
+Length of follow-up:
+24 months 
+
+Loss-to-follow-up:
+I:15%
+C:11%
+
+Reason: unclear
+
+Incomplete outcome data: 
+I:25.7%
+C:22.9%
+
+
+---
+
+7. Outcome measures and effect size
+Outcome measures and effect size (include 95%CI):
+
+Hospitalization (crucial): no effect measure reported
+
+Percentage hospitalization
+I: n=71 (68%)
+C: n=60 (57%)
+
+Admissions:
+total number (mean):
+I:327 (4.6)
+C:247 (4.1)
+p-value=0.51
+
+Quality of life (crucial): after 24 months of follow-up
+(no effect measure reported, no SD/SE/CI)
+
+Bodily pain
+I: 85.69
+C: 85.84
+The p-value between-group change= 0.12
+
+General health perception
+I: 62.64
+C: 66.9
+The p-value between-group change= 0.63
+
+Mental health index
+I: 78.82
+C: 81.41
+The p-value between-group change= 0.28
+
+
+Physical functioning index
+I: 86.61
+C: 86.95
+The p-value between-group change= 0.95
+
+
+Role emotional index
+I: 80.17
+C: 78.73
+The p-value between-group change= 0.43
+
+Role physical index
+I: 74.22
+C: 75.61
+The p-value between-group change= 0.43
+
+Social functioning index
+I: 88.89 
+C: 89.13
+The p-value between-group change= 0.81
+
+Vitality index 
+I: 66.37
+C: 66.36
+The p-value between-group change= 0.85
+
+
+
+Psychosocial recovery (important): no effect measure reported
+
+HADS-A (after 24 months)
+I: 3.90 points
+C: 4.73 points
+
+HADS-D (after 24 months)
+I:2.57
+C:2.86
+
+
+
+---
+
+8. Comments
+Authors conclusion: cardiac rehabilitation program for patients treated for atrial fibrillation with catheter ablation found sustained improvements with respect to anxiety compared to usual care but showed no difference on hospital admission.
+
+Comment: only one author received received grants, personal fees, and other support from Medtronic and grants from Gilead, outside the submitted work. The other authors have nothing to disclose. 
+
+
+
+---
+

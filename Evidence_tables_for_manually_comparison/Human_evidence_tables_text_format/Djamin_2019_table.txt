@@ -1,0 +1,90 @@
+1. Study reference
+Djamin 2019
+
+---
+
+2. Study characteristics
+RCT
+
+COLUMBUS trial
+
+post-hoc analysis on data from RCT
+
+---
+
+3. Patient characteristics
+92 COPD patients with frequent exacerbations (≥3 exacerbations
+of COPD in the previous year)
+
+inclusion criteria: age≥18 years, a COPD diagnosis according to the guidelines of the
+GOLD and ≥3 exacerbations
+of COPD in the previous year that were treated with steroids
+and/or antibiotics.
+
+clinically stable
+for one month prior to enrolment
+
+
+---
+
+4. Intervention (I)
+azithromycin maintenance therapy, n=47
+
+---
+
+5. Comparison / control (C)
+
+placebo, n=45
+
+---
+
+6. Follow-up
+scheduled visits at 3, 6, 9, and 12 months, outpatient department
+
+---
+
+7. Outcome measures and effect size
+total number of COPD exacerbations and the number of hospitalizations
+due to COPD exacerbations in the year of treatment
+
+exacerbation was defined according to the Anthonisen criteria, requiring treatment with steroids and/or antibiotics.
+
+number of exacerbations:
+I: n=84 exacerbations (1.97 per patient)
+C: n=129 exacerbations (2.87 per patient)
+
+mean number of exacerbations per patient, subgroups:
+
+Subgroup eosinophils<2,0%
+I:  n=2.50
+C: n=2.52
+
+Subgroup eosinophils≥2,0%, 
+I: n=1.26
+C: n=3.17
+
+no data on the uncertainty (95%CI) reported
+
+NB statistical analysis: eosinophils<2,0% was compared to eosinophils≥2,0%,  within subgroups of treated with azithromycin or treated with placebo. 
+
+Other subgroups included in the analyses: sex, age (< 65, ≥65), smoking status, long acting bronchodilators (LABA), long acting muscarinic antagonists (LAMA), inhalationcorticosteroids (ICS) use during the study, prednisolone use during the study (yes, no), sputum positive at baseline, Creactive protein (CRP) at baseline (< 3 mg/L, ≥3 mg/L), blood neutrophils at baseline (< 63.3%, ≥63.3%), serum proADM (< 0.69 nmol/L, ≥ 0.69 nmol/L), GOLD stage (1-2, 3 and 4), GOLD group (C and D) and home oxygen use during the study.
+
+---
+
+8. Comments
+
+AIM: to investigate which characteristics of
+COPD patients with the frequent exacerbator phenotype predict the
+best treatment response to maintenance therapy with azithromycin
+
+original report RCT (Uzun 2014) included in Cochrane review Herath 2018
+
+difference in the presence of current smokers between the azithromycin group (43%) and the placebo group (20%)
+
+cut-off values in order to dichotomize, for blood eosinophils (2.0% of total white blood cell count); For blood neutrophils  we used as cut-off value the median values at baseline (63.3% of total white blood cell count)
+
+Conclusion: a blood eosinophil
+count of ≥2.0% predicted a significant better response after treatment with azithromycin compared to placebo
+
+---
+

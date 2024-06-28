@@ -1,0 +1,169 @@
+1. Study reference
+Flores-Gonzalez, 2015
+
+---
+
+2. Study characteristics
+Type of study:
+RCT
+
+Setting and country:
+- Inpatients
+- Spain
+
+Funding and conflicts of interest:
+Funding: This work was supported by grants from
+the Spanish Ministry of Health, Social Politics and
+Equality for the promotion of independent clinical
+research of 2010 (EC10-180). The funder had no role
+in study design, data collection and analysis, decision
+to publish, or preparation of the manuscript. 
+
+Competing Interests: The authors have declared
+that no competing interests exist.
+
+---
+
+3. Patient characteristics 2 
+Inclusion criteria:
+Eligible patients included infants aged under 24 months admitted to Hospital with a clinical diagnosis of acute bronchiolitis classified as moderate in severity. The diagnosis was based on a first episode of respiratory distress with wheezing and/or crackles, preceded by an infection of the upper airways.
+
+Exclusion criteria:
+Infants were excluded
+if they had any of the following risk factors: premature birth as defined by the World Health
+Organization (< 37 weeks), in infants with an adjusted age of less than 6 weeks at the time of
+enrollment, chronic respiratory disease, hemodynamically significant heart disease, immunodeficiency,
+and neuromuscular disease. Infants with previous episodes of wheezing or a physician’s
+diagnosis of asthma were also excluded. Finally, we also excluded patients receiving
+other non-study treatments during hospitalization.
+
+N total at baseline: 
+- 208 were randomized 
+- 185 in analyses
+
+Intervention: 
+104 randomized, 94 in analyses
+
+Control: 
+104 randomized, 91 in analyses
+
+Important prognostic factors2:
+age Mean months (SD):
+I: 2.10±2.37
+C: 2.12±2.08
+
+Sex % M:
+I: 46 (48.9)
+C: 46 (50.5)
+
+Wood-Downes Scale modified by Ferres (WDF) severity score, N (%)
+I: 5.36±0.98
+C: 5.24±1.17
+
+Groups comparable at baseline?
+yes
+
+---
+
+4. Intervention (I)
+Patients received nebulized epinephphine (3 ml of a 1:1000 solution), in
+3% hypertonic saline (7 mL).
+
+The nebulized solution was administered by means of a mask
+using an ultrasonic hospital nebulizer (Shinmed model Sw918) with a frequency of 1.7 MHz and a mist particle size of 1 to 5 μm.
+
+The solutions were administered initially every
+4 hours.
+
+Infants received the same standard support (elevation
+of the head of bed, supplemental oxygen when oxygen saturation dropped below 94%,
+acetaminophen if fever, and a nasal lavage with sterile saline before and after the administration
+of the nebulized solution).
+
+---
+
+5. Comparison / control (C) 3
+
+Patients received nebulized 3% hypertonic
+saline (7 mL) plus 3 mL placebo (sterile water).
+
+The nebulized solution was administered by means of a mask
+using an ultrasonic hospital nebulizer (Shinmed model Sw918) with a frequency of 1.7 MHz and a mist particle size of 1 to 5 μm.
+
+The solutions were administered initially every
+4 hours.
+
+Infants received the same standard support (elevation
+of the head of bed, supplemental oxygen when oxygen saturation dropped below 94%,
+acetaminophen if fever, and a nasal lavage with sterile saline before and after the administration
+of the nebulized solution).
+
+---
+
+6. Follow-up
+Follow-up:
+Patients were monitored only until hospital discharge. 
+
+Lost in follow-up:
+I: 10/104 lost
+- 6 were admitted to intensive care
+- 2 were withdrawn by the pediatrician
+- 1 was withdrawn by parent
+- 1 failed to fulfil inclusion criteria
+
+C: 13/104 lost
+- 6 were admitted to intensive care
+- 2 were withdrawn by pediatrician
+- 3 were withdrawn by parent
+- 2 failed to fulfil inclusion criteria
+
+
+NB: Only those who completed the study were included in the analyses.
+I: 94
+C: 91
+
+
+---
+
+7. Outcome measures and effect size 4 
+LOS days, mean (SD)
+I: 3.94±1.37
+C: 4.82±2.3
+P = 0.011
+
+Required more than 4 days of hospitalization, n (%)
+I: 13 (13.8)
+C: 28 (30.8)
+P = 0.006
+RR: 0.45, IC95%: 0.25–0.81
+
+Comparison of survival curves
+showed significant differences in the LOS from day 4 onwards (P = 0.001)
+
+WDF severity score at day 3, mean (95% CI) 
+I: 3.93 (3.68–4.17)
+C: 4.31 (4.01–4.59)
+ p = 0.029  
+
+WDF severity score at day 5 
+I: 3.37 (3.02–4.72)
+C: 4.03 (3.67–4.40)
+p = 0.036
+
+
+---
+
+8. Comments
+The primary efficacy outcome was length of hospital stay (LOS), defined as the number of days from admission to the time at which the patient fulfilled the study discharge criteria: aWDF score of 3 or less, an oxygen saturation of 97% or more without supplemental oxygen, adequate oral tolerance, and no further need for nebulized therapy.
+
+Authors report no adverse
+events (i.e. tachycardia, sweating, pallor, trembling, or hypertension), during hospitalization.
+NB: However, patients with such severe adverse events that PICU admission was necessary (6 in each group), were excluded from analyses. 
+
+Group n confusing: figure group data are swapped.
+
+Article conclusion:
+Nebulized epinephrine in 3% saline significantly shortens the length of hospital stay of infants with acute moderate bronchiolitis in our setting, where it normally exceeds 4 days, and reduces the risk of a prolonged stay, without any increase in the occurrence of adverse events, when compared with placebo in 3% saline.
+
+---
+
