@@ -1,0 +1,102 @@
+1. Study reference:
+   - Tinsa Faten, 2018
+---
+
+2. Study characteristics:
+   - Type of study: Prospective, double-blind, placebo-controlled, randomized clinical trial
+   - Setting and country: Department of Pediatrics B, Children’s Hospital of Tunis, Tunisia
+   - Funding and conflicts of interest: Information not provided
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Previously well infants aged between one month and 12 months with a clinical diagnosis of first acute viral bronchiolitis and hospitalized during the study period. Moderate severity bronchiolitis characterized by a Wang severity score ≥ 3.
+   - Exclusion criteria: Gestational age at birth <34 weeks, underlying chronic cardiac or pulmonary disease (e.g., bronchopulmonary dysplasia, cystic fibrosis), recurrent wheezing, severe respiratory distress (e.g., apnea, heart rate >200 beats per minute, respiratory rate >80 breaths/minute, profound lethargy), duration of illness exceeding 15 days.
+   - Total number of participants: 94
+     - Intervention group (5% hypertonic saline): 31
+     - Intervention group (mixed 5% hypertonic saline with epinephrine): 36
+     - Control group (normal saline): 26
+   - Characteristics at the beginning of the study:
+     - Mean Age (SD):
+       - Normal saline: 3.06 ± 2.47 months
+       - 5% hypertonic saline: 3.76 ± 2.8 months
+       - Mixed 5% hypertonic saline with epinephrine: 3.28 ± 2.53 months
+     - Male/Female:
+       - Normal saline: 14/12
+       - 5% hypertonic saline: 22/9
+       - Mixed 5% hypertonic saline with epinephrine: 22/15
+     - Familial atopy:
+       - Normal saline: 6/14
+       - 5% hypertonic saline: 3/18
+       - Mixed 5% hypertonic saline with epinephrine: 4/26
+     - Duration of symptoms before enrollment (days):
+       - Normal saline: 3.58 ± 1.86
+       - 5% hypertonic saline: 4.48 ± 2.23
+       - Mixed 5% hypertonic saline with epinephrine: 4.20 ± 3.41
+     - Baseline severity score:
+       - Normal saline: 4.28 ± 1.53
+       - 5% hypertonic saline: 5.35 ± 1.4
+       - Mixed 5% hypertonic saline with epinephrine: 5.76 ± 1.84
+     - Respiratory rate:
+       - Normal saline: 60.27 ± 12.5
+       - 5% hypertonic saline: 57.74 ± 14.02
+       - Mixed 5% hypertonic saline with epinephrine: 61.73 ± 10.32
+     - Baseline O2 saturation (%):
+       - Normal saline: 95.22 ± 2.2
+       - 5% hypertonic saline: 94.2 ± 6.29
+       - Mixed 5% hypertonic saline with epinephrine: 94.76 ± 4.1
+     - Heart rate:
+       - Normal saline: 125.35 ± 14.7
+       - 5% hypertonic saline: 133.8 ± 15.94
+       - Mixed 5% hypertonic saline with epinephrine: 130.8 ± 18.5
+   - Comparability: The groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - Nebulized 5% hypertonic saline (4ml) or mixed 5% hypertonic saline with standard epinephrine (2ml standard epinephrine + 2ml 5% hypertonic saline) administered for 10 minutes with a small, tight-fitting plastic face mask with an updraft nebulizer with continuous flow of 100% oxygen at 6 to 7 L/min. Infants received nebulizations every 4 hours during the study period.
+---
+
+5. Comparison/Control:
+   - Normal saline placebo (4ml of normal saline) administered for 10 minutes with a small, tight-fitting plastic face mask with an updraft nebulizer with continuous flow of 100% oxygen at 6 to 7 L/min. Infants received nebulizations every 4 hours during the study period.
+---
+
+6. Follow-up:
+   - Length of follow-up: 120 minutes after the start of the first treatment, with additional secondary outcome measure being hospital stay duration.
+   - Loss-to-follow-up: 3 patients (3.09%) were withdrawn from the study. Two patients were withdrawn by the pediatric inpatient team due to worsening clinical status during the first 24 hours (placebo group). One patient was withdrawn at parents’ request because they refused hospitalization.
+   - Incomplete outcome data: No specific information provided, but 94 patients completed the study.
+---
+
+7. Outcome measures and effect size:
+   - Mean severity score at T30:
+     - Normal saline: 4.42 ± 1.8
+     - 5% hypertonic saline: 4.74 ± 1.3
+     - Mixed 5% hypertonic saline with epinephrine: 4.54 ± 1.53
+     - p = 0.74
+   - Mean severity score at T60:
+     - Normal saline: 4 ± 1.55
+     - 5% hypertonic saline: 4.42 ± 1.4
+     - Mixed 5% hypertonic saline with epinephrine: 4.3 ± 1.45
+     - p = 0.557
+   - Mean severity score at T120:
+     - Normal saline: 3.76 ± 1.562
+     - 5% hypertonic saline: 4 ± 1.483
+     - Mixed 5% hypertonic saline with epinephrine: 3.68 ± 1.248
+     - p = 0.633
+   - Reduction in mean severity score at T120 from baseline:
+     - Normal saline: 23.18% ± 22.03
+     - 5% hypertonic saline: 24.22% ± 21.76
+     - Mixed 5% hypertonic saline with epinephrine: 31.609% ± 24.16
+     - p = 0.269
+   - Mean time for discharge:
+     - Normal saline: 4.48 ± 3.81 days
+     - 5% hypertonic saline: 3.6 ± 1.7 days
+     - Mixed 5% hypertonic saline with epinephrine: 3.5 ± 1.973 days
+     - p = 0.316
+   - No significant adverse side effects (tachycardia, flushing, tremor, or bronchospasm) were observed in any treatment group.
+---
+
+8. Comments:
+   - The study is limited by the small sample size, which may explain the lack of significant differences in outcomes.
+   - The study did not provide information on funding and conflicts of interest.
+   - The study did not specify the exact number of participants who completed the follow-up for each group, but it mentioned that 94 patients completed the study.
+   - The study did not provide detailed information on the exact reasons for the exclusion of the three patients from the statistical analysis.
+---

@@ -1,0 +1,164 @@
+1. Study reference:
+   - Ruangsomboon, 2021
+---
+
+2. Study characteristics:
+   - Type of study: Pilot nonblinded randomized controlled trial
+   - Setting and country: Emergency Department (ED) of Siriraj Hospital, Bangkok, Thailand
+   - Funding and conflicts of interest: Fisher & Paykel Healthcare provided the NHF devices (Optiflow cannula and AIRVO 2 machines). The company played no role in the trial design, data collection, data analysis, or manuscript preparation. The authors have no relevant financial information or potential conflicts to disclose.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Adults aged ≥18 years previously diagnosed with asthma presenting to the ED with symptoms compatible with an acute exacerbation and hypoxemia defined as a pulse oximetry reading (SpO2) at room air of less than 95%.
+   - Exclusion criteria: Respiratory rate > 35 breaths/min or SpO2 < 90% despite oxygen supplement, Glasgow Coma Scale (GCS) score of <13, contraindications to the use of equipment with positive airway pressure, previous diagnosis of COPD or smoking more than 5 pack-years, lung cancer, concurrent diagnosis with other lower respiratory tract conditions such as pneumonia and pulmonary edema.
+   - Total number of participants: 37 (COT group n = 18, NHF group n = 19)
+   - Characteristics of participants:
+     - Age (years): COT: 63.2 ± 21.8, NHF: 63.7 ± 16.9
+     - Female sex: COT: 15 (83.3%), NHF: 16 (84.2%)
+     - Comorbidities:
+       - Diabetes mellitus: COT: 2 (11.1%), NHF: 5 (26.3%)
+       - Hypertension: COT: 5 (27.8%), NHF: 10 (52.6%)
+       - Hyperlipidemia: COT: 3 (16.7%), NHF: 2 (10.5%)
+       - Chronic kidney disease: COT: 0 (0%), NHF: 3 (15.8%)
+       - Cardiovascular disease: COT: 1 (5.6%), NHF: 2 (10.5%)
+     - Current medication:
+       - ICS: COT: 2 (11.1%), NHF: 2 (10.5%)
+       - LABA: COT: 1 (5.6%), NHF: 4 (21.1%)
+       - SABA: COT: 10 (55.6%), NHF: 10 (52.6%)
+       - ICS + LABA: COT: 13 (72.2%), NHF: 15 (78.9%)
+       - Anticholinergics + SABA: COT: 5 (27.8%), NHF: 7 (36.8%)
+       - Methylxanthine: COT: 2 (11.1%), NHF: 4 (21.1%)
+       - Leukotriene receptor antagonist: COT: 3 (16.7%), NHF: 10 (52.6%)
+       - Procaterol HCl: COT: 3 (16.7%), NHF: 4 (21.1%)
+     - Initial vital signs:
+       - Respiratory rate (breaths/min): COT: 33.6 ± 4.0, NHF: 33.0 ± 4.4
+       - Pulse oximetry (%): COT: 90.5 ± 1.8, NHF: 90.3 ± 1.8
+       - Heart rate (beats/min): COT: 114.6 ± 19.2, NHF: 117.6 ± 17.2
+       - Mean arterial pressure (mm Hg): COT: 111.6 ± 13.3, NHF: 114.6 ± 21.1
+     - Baseline asthma control test score: COT: 14.9 ± 5.1, NHF: 14.6 ± 4.1
+   - Groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - NHF was delivered by a high-flow blower-humidifier AIRVO 2 via Optiflow medium-sized high-flow nasal cannula (Fisher & Paykel Healthcare, Auckland, New Zealand). The initial NHF rate was 35 L/min and could be adjusted from 30 to 60 L/min according to the participant’s level of comfort. FiO2 was adjusted to achieve a steady state SpO2 of 95% to 99% or 90% to 92% if the patients’ baseline SpO2 at room was less than 92%. All participants received standard treatments and interventions, including continued doses of bronchodilators, systemic corticosteroid, and magnesium sulfate if not given prior to reassessment, antibiotics, intravenous fluids, and other treatments as deemed appropriate by the treating physician.
+---
+
+5. Comparison/Control:
+   - COT was given by a standard oxygen nasal cannula or nonrebreather mask. FiO2 was adjusted to achieve a steady state SpO2 of 95% to 99% or 90% to 92% if the patients’ baseline SpO2 at room was less than 92%. All participants received standard treatments and interventions, including continued doses of bronchodilators, systemic corticosteroid, and magnesium sulfate if not given prior to reassessment, antibiotics, intravenous fluids, and other treatments as deemed appropriate by the treating physician.
+---
+
+6. Follow-up:
+   - Length of follow-up: 120 minutes
+   - Loss-to-follow-up: None reported
+   - Incomplete outcome data: One participant from each group had worsening clinical symptoms and was intubated after initial assessment and before 30 minutes. Therefore, they could not contribute any patient-reported data for the analysis. Their previous MBS and NRS scale scores, all of which were the maximum score of 10, were carried forward to all the following time points after they were intubated for the ITT analysis.
+---
+
+7. Outcome measures and effect size:
+   - Primary outcome (MBS at 120 minutes):
+     - COT: 3.3 ± 2.5
+     - NHF: 1.4 ± 2.5
+     - Mean difference: 1.9 (95% CI = 0.2 to 3.8), p = 0.043
+   - Secondary outcomes:
+     - NRS at 120 minutes:
+       - COT: 3.2 ± 2.5
+       - NHF: 1.4 ± 2.5
+       - Mean difference: 1.9 (95% CI = 0.3 to 3.8), p = 0.044
+     - Comfort score:
+       - COT: 6.1 ± 1.6
+       - NHF: 9.1 ± 1.3
+       - Mean difference: 3 (95% CI = 2 to 4), p < 0.0001
+     - Respiratory rate at 120 minutes:
+       - COT: 25.1 ± 4.2
+       - NHF: 19.7 ± 2.9
+       - Mean difference: 4.7 (95% CI = 1.5 to 7.8), p = 0.001
+     - Pulse oximetry at 120 minutes:
+       - COT: 97.3 ± 2.6
+       - NHF: 98.5 ± 1.3
+       - Mean difference: -1.2 (95% CI = -3.2 to 0.8), p = 0.49
+     - Heart rate at 120 minutes:
+       - COT: 100.1 ± 11.5
+       - NHF: 101.2 ± 19.3
+       - Mean difference: 1.3 (95% CI = -9.6 to 12.2), p = 0.99
+     - Mean arterial pressure at 120 minutes:
+       - COT: 86.7 ± 9.4
+       - NHF: 97.3 ± 16.6
+       - Mean difference: -9.1 (95% CI = -18.6 to 0.5), p = 0.07
+     - Arterial blood gas results:
+       - pH at 120 minutes:
+         - COT: 7.40 ± 0.04
+         - NHF: 7.37 ± 0.05
+         - Mean difference: 0.03 (95% CI = -0.002 to 0.05), p = 0.06
+       - PaCO2 at 120 minutes:
+         - COT: 33.3 ± 7.4
+         - NHF: 37.9 ± 8.7
+         - Mean difference: -4.6 (95% CI = -11.2 to 1.9), p = 0.16
+       - PaO2 at 120 minutes:
+         - COT: 139.4 ± 48.9
+         - NHF: 119.2 ± 37.0
+         - Mean difference: 20.2 (95% CI = -12.6 to 53.0), p = 0.22
+       - P/F ratio at 120 minutes:
+         - COT: 337.3 ± 162.2
+         - NHF: 306.9 ± 108.9
+         - Mean difference: 30.4 (95% CI = -72.6 to 133.4), p = 0.55
+       - HCO3 at 120 minutes:
+         - COT: 22.4 ± 4.0
+         - NHF: 21.9 ± 4.2
+         - Mean difference: 0.4 (95% CI = -2.8 to 3.7), p = 0.78
+     - Co-interventions and disposition:
+       - Total dosage of bronchodilators used in the ED:
+         - COT: 6 (5–9)
+         - NHF: 8 (7–9)
+         - p = 0.08
+       - Magnesium sulfate:
+         - COT: 9 (50.0%)
+         - NHF: 11 (57.9%)
+         - p = 0.41
+       - Penicillin or cephalosporins:
+         - COT: 3 (16.7%)
+         - NHF: 2 (10.5%)
+         - p = 0.59
+       - Macrolide:
+         - COT: 8 (44.4%)
+         - NHF: 6 (31.6%)
+         - p = 0.25
+       - Oseltamivir:
+         - COT: 7 (38.9%)
+         - NHF: 6 (31.6%)
+         - p = 0.64
+       - Intubation in 24 hours:
+         - COT: 1 (5.6%)
+         - NHF: 1 (5.6%)
+         - p = 0.97
+       - ED disposition:
+         - Discharge:
+           - COT: 6 (33.3%)
+           - NHF: 8 (42.1%)
+           - p = 0.35
+         - Admit to general ward:
+           - COT: 4 (22.2%)
+           - NHF: 4 (21.1%)
+         - Admit to respiratory intensive care unit:
+           - COT: 0 (0%)
+           - NHF: 2 (10.5%)
+         - Observation unit:
+           - COT: 6 (33.3%)
+           - NHF: 2 (10.5%)
+         - Refer:
+           - COT: 2 (11.1%)
+           - NHF: 3 (15.8%)
+       - ED length of stay (hours):
+         - COT: 6.8 (4.9–11.6)
+         - NHF: 4.4 (3.2–10.1)
+         - p = 0.26
+       - Hospital length of stay (hours):
+         - COT: 12.0 (4.8–69.6)
+         - NHF: 9.6 (4.5–67.2)
+         - p = 0.87
+---
+
+8. Comments:
+   - The study was terminated early due to the COVID-19 pandemic, which may have resulted in larger between-group differences than might have been observed had the study continued to completion.
+   - The participants in this study were relatively older than those in previous studies, which may affect the generalizability of the results.
+   - The lack of blinding to the devices used may have affected the outcomes measured.
+   - The study did not detect changes in management, intubation, and mortality rates, and did not use lung function as an outcome measure.
+---

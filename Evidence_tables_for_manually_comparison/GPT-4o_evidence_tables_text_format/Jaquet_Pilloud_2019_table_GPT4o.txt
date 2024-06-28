@@ -1,0 +1,106 @@
+1. Study reference:
+   - Jaquet-Pilloud, 2019
+---
+
+2. Study characteristics:
+   - Type of study: Randomised multicentre clinical trial
+   - Setting and country: Conducted in two hospitals in Switzerland; one tertiary care centre (Lausanne Children’s Hospital) and one secondary care centre (Sion Hospital)
+   - Funding and conflicts of interest: The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors. No competing interests declared.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Children aged 6 weeks to 24 months with a primary diagnosis of moderate or severe bronchiolitis, defined as symptoms of upper respiratory tract infection in addition to tachypnoea, wheezing, and widespread crackles at auscultation, and a Wang Score of 5–12.
+   - Exclusion criteria: Children with mild bronchiolitis (Wang Score <5), previous episodes of wheezing, cardiac or chronic respiratory disease, immunocompromised children, gestational age <34 weeks, critical illness requiring immediate ICU admission, RSV immunoglobulin therapy, corticotherapy in the preceding 2 weeks, or bronchodilators within 24 hours before presentation.
+   - Total number of participants: 122 patients initially enrolled; 61 in the intervention group (HS) and 61 in the control group (standard care alone).
+   - Characteristics at the beginning of the study:
+     - Age (months):
+       - HS group: Mean (95% CI) 7.7 (6.4 to 9.1), Median (range) 6.3 (1.4 to 21.4)
+       - Control group: Mean (95% CI) 7.5 (6.2 to 8.9), Median (range) 6.1 (1.4 to 21.9)
+     - Wang Score 9–12:
+       - HS group: 15 (24%)
+       - Control group: 14 (23%)
+     - Wang Score 5–8:
+       - HS group: 46 (76%)
+       - Control group: 45 (77%)
+     - Gender (female/male):
+       - HS group: 22 (36%) / 39 (64%)
+       - Control group: 22 (37.3%) / 37 (62.7%)
+     - Atopic dermatitis history:
+       - HS group: 8 (13%)
+       - Control group: 4 (6.7%)
+     - Tobacco smoke exposure:
+       - HS group: 20 (33%)
+       - Control group: 19 (32%)
+     - Dehydration:
+       - HS group: 8 (13%)
+       - Control group: 6 (10%)
+   - Comparability: The groups were comparable at the beginning of the experiment based on the provided characteristics.
+---
+
+4. Intervention:
+   - The HS Group received 4 mL of NaCl 3% (MucoClear 3%) every 6 hours until discharge. MucoClear 3% is produced by PARI Gmbh (Germany). Pari LC sprint Nebulisers were used with an oxygen flow at 6 l/min. Two mask sizes were available for children aged <1 year or >1 year. Trained nurses administered HS. Standard therapy included suctioning nasal secretions, water-electrolyte balance maintenance, and oxygen supplementation when needed. If any child showed signs of respiratory failure, a nebulisation of 4 mg of epinephrine was given, up to three times within the hour. If there was no response, the patient was admitted to ICU.
+---
+
+5. Comparison/Control:
+   - The SC group received standard supportive care with no inhalation. Standard therapy included suctioning nasal secretions, water-electrolyte balance maintenance, and oxygen supplementation when needed. If any child showed signs of respiratory failure, a nebulisation of 4 mg of epinephrine was given, up to three times within the hour. If there was no response, the patient was admitted to ICU.
+---
+
+6. Follow-up:
+   - Length of follow-up: Until discharge from the hospital.
+   - Loss-to-follow-up: None reported.
+   - Incomplete outcome data: Two patients were excluded after randomisation (one for misdiagnosis of pneumonia and the other for decompensation of an unknown neurological disease). This resulted in 120 patients completing the study (61 in the HS group and 59 in the SC group).
+---
+
+7. Outcome measures and effect size:
+   - Primary outcome: Hospital length of stay (hours)
+     - HS group: Mean (95% CI) 47 (39 to 56)
+     - SC group: Mean (95% CI) 50.4 (39 to 61)
+     - P value: 0.33
+     - Difference: −2.8 hours (95% CI −11 to 16)
+   - Secondary outcomes:
+     - Duration of oxygen therapy (hours)
+       - HS group: Mean (95% CI) 29.5 (22 to 36)
+       - SC group: Mean (95% CI) 31.1 (22 to 39)
+       - P value: 0.6
+       - Difference: −1.5 hours (95% CI −9.6 to 12)
+     - Racemic epinephrine nebulisation rescue therapy
+       - HS group: 5 (8.2%)
+       - SC group: 9 (15%)
+       - P value: 0.3
+     - Transfers to paediatric intensive care unit
+       - HS group: 0 (0%)
+       - SC group: 3 (5%)
+       - P value: 0.1
+     - Patients admitted within 7 days of discharge
+       - HS group: 2 (3.2%)
+       - SC group: 3 (5.1%)
+       - P value: 0.7
+   - Wang Score evolution:
+     - At 24 hours: HS group had a greater improvement (P value: 0.046)
+     - At 36 hours: HS group had a greater improvement (P value: 0.037)
+     - At 48 hours: No significant difference (P value: 0.877)
+   - Severe bronchiolitis (Wang Score >8) subgroup:
+     - Hospital length of stay (hours)
+       - HS group: Mean (95% CI) 66 (43 to 88)
+       - SC group: Mean (95% CI) 72 (48 to 95)
+       - P value: 0.7
+     - Duration of oxygen therapy (hours)
+       - HS group: Mean (95% CI) 46 (22 to 69)
+       - SC group: Mean (95% CI) 54 (35 to 73)
+       - P value: 0.6
+     - Racemic epinephrine nebulisation rescue therapy
+       - HS group: 3 (5%)
+       - SC group: 6 (2.3%)
+       - P value: 0.4
+     - Transfers to paediatric intensive care unit
+       - HS group: 0 (0%)
+       - SC group: 2 (7%)
+       - P value: 0.5
+     - Patients admitted within 7 days after discharge
+       - HS group: 0 (0%)
+       - SC group: 0 (0%)
+---
+
+8. Comments:
+   - The study did not show any beneficial effects of nebulised hypertonic saline (HS) on the length of hospital stay (LOS) in children with moderate to severe bronchiolitis. The results are consistent with recent large studies and meta-analyses that also did not support the use of HS in such cases. The absence of blinding is a critical limitation of the study. Additionally, the potential effect of normal saline (NNS) as a placebo in previous studies complicates the interpretation of HS benefits. The study did not control for the duration of illness before hospitalisation, which could be a confounding factor. Treatment with HS was discontinued in 10 patients at parents' request due to infant discomfort with inhalation by face mask.
+---

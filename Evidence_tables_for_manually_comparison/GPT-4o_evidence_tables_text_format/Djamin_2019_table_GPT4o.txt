@@ -1,0 +1,149 @@
+1. Study reference:
+   - Djamin, 2019
+---
+
+2. Study characteristics:
+   - Type of study: Randomized Controlled Trial (RCT), prospective, double-blind, placebo-controlled.
+   - Setting and country: Amphia Hospital, Breda, the Netherlands.
+   - Funding and conflicts of interest: The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Age ≥18 years, a COPD diagnosis according to the guidelines of the Global initiative for chronic Obstructive Lung Disease, and ≥3 exacerbations of COPD in the previous year that were treated with steroids and/or antibiotics. Patients were required to be clinically stable for one month prior to enrolment.
+   - Exclusion criteria: History of other significant respiratory diseases (e.g., asthma, cystic fibrosis), presence of bronchiectasis as assessed by computed tomography, heart failure, and an active malignancy.
+   - Total number of participants: 92 (Intervention group: 47, Control group: 45)
+   - Characteristics at the beginning of the study:
+     - Azithromycin group (n = 47):
+       - Male: 22 (46.8%)
+       - Age (years): 64.7 (10.2)
+       - Current smoker: 20 (43%)
+       - Medication:
+         - LABA: 45 (96%)
+         - LAMA: 42 (89%)
+         - Inhaled corticosteroids: 42 (89%)
+         - SABA: 32 (68%)
+         - Prednisolone: 11 (23%)
+       - Number of AECOPD in past year (mean, SD): 4.0 (1.2)
+       - Number of hospitalisations due to AECOPD (mean, SD): 1.0 (1.1)
+       - Spirometry after bronchodilation (mean, SD):
+         - FEV1 (L): 1.1 (0.47)
+         - FEV1 (% of predicted): 44.2 (19.3)
+         - FVC (L): 2.9 (0.8)
+         - FVC (% of predicted): 92.5 (22.2)
+         - FEV1/FVC (%): 38.0 (11.7)
+       - GOLD stages:
+         - I: 2 (4.3%)
+         - II: 14 (29.8%)
+         - III: 18 (38.3%)
+         - IV: 13 (27.7%)
+       - GOLD groups:
+         - C: 11 (23.4%)
+         - D: 34 (72.3%)
+         - Unknown: 2 (4.3%)
+     - Placebo group (n = 45):
+       - Male: 18 (40%)
+       - Age (years): 64.9 (10.2)
+       - Current smoker: 9 (20%)
+       - Medication:
+         - LABA: 41 (91%)
+         - LAMA: 32 (71%)
+         - Inhaled corticosteroids: 43 (96%)
+         - SABA: 33 (73%)
+         - Prednisolone: 9 (20%)
+       - Number of AECOPD in past year (mean, SD): 4.0 (1.1)
+       - Number of hospitalisations due to AECOPD (mean, SD): 0.7 (0.8)
+       - Spirometry after bronchodilation (mean, SD):
+         - FEV1 (L): 1.1 (0.43)
+         - FEV1 (% of predicted): 45.0 (19.5)
+         - FVC (L): 2.7 (0.92)
+         - FVC (% of predicted): 88.9 (20.3)
+         - FEV1/FVC (%): 40.3 (12.4)
+       - GOLD stages:
+         - I: 3 (6.7%)
+         - II: 12 (26.7%)
+         - III: 20 (44.4%)
+         - IV: 10 (22.2%)
+       - GOLD groups:
+         - C: 16 (35.6%)
+         - D: 28 (62.2%)
+         - Unknown: 1 (2.2%)
+   - Comparability: The groups were comparable at the beginning of the experiment except for the presence of current smokers, which was significantly different (p = 0.01).
+---
+
+4. Intervention:
+   - Patients in the intervention group received azithromycin maintenance treatment. They were followed up at the outpatient department with scheduled visits at 3, 6, 9, and 12 months. During these visits, data were obtained for spirometry, mMRC-scores, white-blood-cell count, concentrations of C-reactive protein and mid-regional pro-adrenomedullin. Additionally, sputum samples were obtained for culture at baseline and at every scheduled visit.
+---
+
+5. Comparison/Control:
+   - Patients in the control group received a placebo. They were followed up at the outpatient department with scheduled visits at 3, 6, 9, and 12 months. During these visits, data were obtained for spirometry, mMRC-scores, white-blood-cell count, concentrations of C-reactive protein and mid-regional pro-adrenomedullin. Additionally, sputum samples were obtained for culture at baseline and at every scheduled visit.
+---
+
+6. Follow-up:
+   - Length of follow-up: 12 months
+   - Loss-to-follow-up: Information not explicitly provided.
+   - Incomplete outcome data: Information not explicitly provided. However, the baseline characteristics table indicates that two subjects in the azithromycin group and one subject in the placebo arm were missing baseline data for COPD group (C or D) classification.
+---
+
+7. Outcome measures and effect size:
+   - Total number of exacerbations:
+     - Azithromycin group: 84 exacerbations (mean per patient: 1.84)
+     - Placebo group: 129 exacerbations (mean per patient: 2.85)
+     - p < 0.01
+   - Number of exacerbations per patient with baseline blood eosinophil count ≥2.0%:
+     - Azithromycin group: 1.26
+     - Placebo group: 3.17
+     - p < 0.01
+   - Number of exacerbations per patient with baseline blood eosinophil count <2.0%:
+     - Azithromycin group: 2.50
+     - Placebo group: 2.52
+     - p = 0.97
+   - Number of exacerbations per patient in GOLD stage 1-2:
+     - Azithromycin group: 1.06
+     - Placebo group: 2.27
+     - p = 0.12 (vs GOLD 3), p = 0.34 (vs GOLD 4)
+   - Number of exacerbations per patient in GOLD stage 4:
+     - Azithromycin group: 2.62
+     - Placebo group: 2.40
+     - p = 0.02 (vs GOLD 1-2)
+   - Number of exacerbations per patient in GOLD group C:
+     - Azithromycin group: 0.45
+     - Placebo group: 2.63
+     - p < 0.01
+   - Number of exacerbations per patient in GOLD group D:
+     - Azithromycin group: 2.18
+     - Placebo group: 3.11
+     - p = 0.48
+   - Number of hospitalizations due to exacerbations:
+     - Azithromycin group: 25 (mean per patient: 0.53)
+     - Placebo group: 31 (mean per patient: 0.69)
+   - Number of hospitalizations per patient with baseline blood eosinophil count ≥2.0%:
+     - Azithromycin group: 0.26
+     - Placebo group: 0.79
+     - p = 0.01
+   - Number of hospitalizations per patient with baseline blood eosinophil count <2.0%:
+     - Azithromycin group: 0.90
+     - Placebo group: 0.57
+     - p = 0.47
+   - Number of hospitalizations per patient in GOLD stage 1-2:
+     - Azithromycin group: 0.00
+     - Placebo group: 0.00
+     - p < 0.01 (vs GOLD 3), p < 0.001 (vs GOLD 4)
+   - Number of hospitalizations per patient in GOLD stage 4:
+     - Azithromycin group: 1.30
+     - Placebo group: 1.30
+     - p = 0.24 (vs GOLD 3)
+   - Acquisition of macrolide-resistant bacteria:
+     - Azithromycin group: 3 (6%)
+     - Placebo group: 11 (24%)
+     - p = 0.036
+   - Positive sputum cultures with newly acquired respiratory pathogens during follow-up:
+     - Azithromycin group: 4
+     - Placebo group: 12
+     - p = 0.044
+---
+
+8. Comments:
+   - The study did not explicitly provide information on loss-to-follow-up or incomplete outcome data, which could affect the interpretation of the results.
+   - There was a significant difference in the presence of current smokers between the azithromycin and placebo groups at baseline, which might have influenced the outcomes.
+   - The study had a relatively small sample size, especially for patients in GOLD group C, which may limit the generalizability of the findings.
+---

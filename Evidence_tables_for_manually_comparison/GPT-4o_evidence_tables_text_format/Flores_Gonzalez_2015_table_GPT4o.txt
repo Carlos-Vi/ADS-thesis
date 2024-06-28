@@ -1,0 +1,62 @@
+1. Study reference:
+   - Flores-González, 2015
+---
+
+2. Study characteristics:
+   - Type of study: Randomized, double-blind, placebo-controlled clinical trial
+   - Setting and country: Hospital Universitario Puerta del Mar, Cádiz, Spain
+   - Funding and conflicts of interest: Supported by grants from the Spanish Ministry of Health, Social Politics and Equality for the promotion of independent clinical research of 2010 (EC10-180). The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. The authors declared no competing interests.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Infants aged under 24 months admitted with a clinical diagnosis of acute bronchiolitis (International Diseases Classification, Ninth revision, code 466.1), classified as moderate in severity.
+   - Exclusion criteria: Premature birth (< 37 weeks) with an adjusted age of less than 6 weeks at enrollment, chronic respiratory disease, hemodynamically significant heart disease, immunodeficiency, neuromuscular disease, previous episodes of wheezing, physician’s diagnosis of asthma, and receiving other non-study treatments during hospitalization.
+   - Total number of participants: 208 infants (94 in the intervention group, 91 in the control group)
+   - Characteristics of participants:
+     - Mean age: Intervention group: 2.10 ± 2.37 months; Control group: 2.12 ± 2.08 months
+     - Male sex: Intervention group: 46 (48.9%); Control group: 46 (50.5%)
+     - Personal history of atopy: Intervention group: 19 (20.2%); Control group: 15 (16.4%)
+     - Personal history of cow’s milk protein allergy: Intervention group: 1 (1%); Control group: 1 (1%)
+     - Premature birth older than 6 weeks: Intervention group: 6 (6.3%); Control group: 11 (12%)
+     - Parental history of smoking: Intervention group: 25 (26.6%); Control group: 32 (35.1%)
+     - Family history of atopy: Intervention group: 30 (31.9%); Control group: 27 (29.6%)
+     - Breastfed: Intervention group: 50 (53.2%); Control group: 51 (56%)
+     - Number of siblings: Intervention group: 0.65 ± 0.599; Control group: 0.77 ± 0.684
+     - Attendance at a nursery school: Intervention group: 10 (10.6%); Control group: 15 (16.5%)
+     - Disease severity score (WDF score) at admission: Intervention group: 5.36 ± 0.98; Control group: 5.24 ± 1.17
+     - Respiratory syncytial virus positivity: Intervention group: 58 (61.7%); Control group: 54 (59.3%)
+     - Previous treatment with salbutamol: Intervention group: 36 (38.3%); Control group: 32 (35.1%)
+     - Previous treatment with corticosteroids: Intervention group: 27 (28.7%); Control group: 22 (24.1%)
+   - Comparability: The groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - Patients received nebulized epinephrine (3 ml of a 1:1000 solution) in 3% hypertonic saline (7 mL), administered every 4 hours.
+---
+
+5. Comparison/Control:
+   - Patients received nebulized 3% hypertonic saline (7 mL) plus 3 mL placebo (sterile water), administered every 4 hours.
+---
+
+6. Follow-up:
+   - Length of follow-up: Until discharge, defined by a WDF score of 3 or less, oxygen saturation of 97% or more without supplemental oxygen, adequate oral tolerance, and no further need for nebulized therapy.
+   - Loss-to-follow-up: 23 patients (10 in the intervention group and 13 in the control group) prematurely discontinued study treatment. Reasons: use of non-study medications (16 patients: 8 in each group), withdrawal of consent by parents (4 cases), failure to fulfill inclusion criteria after enrollment (3 cases).
+   - Incomplete outcome data: Not explicitly stated, but inferred from the loss-to-follow-up data.
+---
+
+7. Outcome measures and effect size:
+   - Length of hospital stay (LOS): Intervention group: 3.94 ± 1.37 days; Control group: 4.82 ± 2.3 days (P = 0.011)
+   - Proportion of infants requiring hospitalization for more than 4 days: Intervention group: 13.8%; Control group: 30.8% (P = 0.006)
+   - Relative risk of prolonged hospital stay: RR: 0.45, 95% CI: 0.25–0.81
+   - WDF score on day 3: Intervention group: mean 3.93, 95% CI (3.68–4.17); Control group: mean 4.31, 95% CI (4.01–4.59) (P = 0.029)
+   - WDF score on day 5: Intervention group: mean 3.37, 95% CI (3.02–4.72); Control group: mean 4.03, 95% CI (3.67–4.40) (P = 0.036)
+   - Respiratory rate: Decreased in the intervention group vs. the control group during the first five days, but not statistically significant.
+   - Heart rate and oxygen saturation: Similar in both groups throughout the study.
+   - Adverse events: None reported (i.e., tachycardia, sweating, pallor, trembling, or hypertension).
+---
+
+8. Comments:
+   - The study found significant differences in LOS and WDF scores from day 3 onwards, but no differences during the first three days of treatment.
+   - The results may not be extrapolated to settings where the average LOS is typically shorter than 3 days.
+   - The study did not report any adverse events, suggesting the safety of the intervention.
+   - The study's findings support the use of nebulized epinephrine in 3% hypertonic saline for hospitalized infants with acute moderate bronchiolitis in settings where LOS normally exceeds 4 days.

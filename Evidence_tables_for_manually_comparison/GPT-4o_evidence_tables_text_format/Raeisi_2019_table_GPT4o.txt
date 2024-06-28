@@ -1,0 +1,101 @@
+1. Study reference:
+   - Raeisi, 2019
+---
+
+2. Study characteristics:
+   - Type of study: Randomized, double-blind, pilot study
+   - Setting and country: Single-center (Masih Daneshvery Hospital), Tehran, Iran
+   - Funding and conflicts of interest: Funded by the National Research Institute of Tuberculosis and Lung Disease (NRITLD). No conflicts of interest mentioned.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Patients aged 18-65 years, referred to the emergency department or admitted to the ward, clinically diagnosed with moderate to severe asthma.
+   - Exclusion criteria: Pregnant patients, history of smoking, occupational asthma, hypercapnic respiratory failure, and infiltration in chest X-ray (CXR).
+   - Total number of participants: 40 patients (20 in the intervention group, 20 in the control group).
+   - Intervention group characteristics:
+     - Age: 50.75 ± 10.7 years
+     - Sex: 15 females (75%)
+     - Height: 1.63 ± 0.08 m
+     - Weight: 74.8 ± 9.9 kg
+     - Borg scale: 7.58 ± 1.04
+     - FEV1-actual: 1.48 ± 0.94 L
+     - FVC%: 60 ± 23.3
+     - FEV1/FVC%: 62.18 ± 11.8
+     - RR: 23.05 ± 4.8
+     - HR: 93.4 ± 15.90
+     - Pao2: 52.8 ± 14.2 mmHg
+     - Paco2: 35.08 ± 7.02 mmHg
+     - O2 saturation: 89.7 ± 3.7%
+     - PH: 7.4 ± 0.06
+     - ESR: 29.4 ± 17.3 mm
+     - Leukocytosis: 9429.5 ± 3095
+     - PMN%: 60.34 ± 15
+     - EOS%: 8.7 ± 4.4
+     - History of Asthma Diagnosis: 5.3 ± 2.7 years
+   - Control group characteristics:
+     - Age: 44.4 ± 11.6 years
+     - Sex: 13 females (65%)
+     - Height: 1.69 ± 1.08 m
+     - Weight: 73.7 ± 8.1 kg
+     - Borg scale: 7.84 ± 1.7
+     - FEV1-actual: 1.43 ± 0.15 L
+     - FVC%: 66.5 ± 18.99
+     - FEV1/FVC%: 65.7 ± 11.5
+     - RR: 21.6 ± 2.8
+     - HR: 96.3 ± 7.7
+     - Pao2: 49.6 ± 20.1 mmHg
+     - Paco2: 37.8 ± 5.1 mmHg
+     - O2 saturation: 89.5 ± 3.8%
+     - PH: 7.4 ± 0.1
+     - ESR: 25.5 ± 16.2 mm
+     - Leukocytosis: 10080.5 ± 2967.9
+     - PMN%: 65.3 ± 13.6
+     - EOS%: 5.2 ± 2.5
+     - History of Asthma Diagnosis: 6.4 ± 3.4 years
+   - Comparability: The groups were comparable at the beginning of the experiment except for the eosinophil count, which was significantly different (p=0.04).
+---
+
+4. Intervention:
+   - High-flow oxygen with a flow rate of 15–35 L/min (37°C) was delivered continuously through a nasal cannula. The initial flow rate was 19.5–30 L/min and FIO2 was adjusted to maintain a SaO2 of 94% or more and relative humidity of 30–34%. FHNC was administered under close monitoring to manage any suspected side effects.
+---
+
+5. Comparison/Control:
+   - Nasal oxygen was administrated via nasal canola; using a flow rate of 2-5 L/min to maintain a minimum SaO2 of 94%.
+---
+
+6. Follow-up:
+   - Length of follow-up: 24 hours
+   - Loss-to-follow-up: Not explicitly mentioned, but it can be inferred that there was no loss-to-follow-up as the number of participants at the beginning and end of the study remained the same.
+   - Incomplete outcome data: Not explicitly mentioned, but it can be inferred that there was no incomplete outcome data as the number of participants at the beginning and end of the study remained the same.
+---
+
+7. Outcome measures and effect size:
+   - Dyspnea scale (Borg scale):
+     - HFNC: Decreased from 7.58 ± 1.04 to 6.45 ± 0.51 (p=0.000) within 2 hours, and to 6.1 ± 2.4 (p=0.014) after 24 hours.
+     - COT: Decreased from 7.84 ± 1.7 to 6.89 ± 0.9 (p=0.049) within 2 hours, and to 6.1 ± 1.4 (p=0.003) after 24 hours.
+   - FEV1:
+     - HFNC: Increased from 1.48 ± 0.94 L to 1.61 ± 0.66 L (p=0.19) after 2 hours, and to 1.82 ± 0.92 L (p=0.003) after 24 hours.
+     - COT: Increased from 1.43 ± 0.65 L to 1.46 ± 0.53 L (p=0.071) after 2 hours, and to 1.64 ± 0.6 L (p=0.079) after 24 hours.
+   - PaO2:
+     - HFNC: Increased significantly during the first 2 hours.
+     - COT: Increased significantly during the first 2 hours.
+   - O2 saturation:
+     - HFNC: Increased significantly during the first 2 hours.
+     - COT: Increased significantly during the first 2 hours.
+   - Respiratory rate (RR):
+     - HFNC: Decreased significantly in each time point of treatment.
+     - COT: Decreased significantly in each time point of treatment.
+   - Heart rate (HR):
+     - HFNC: Decreased significantly in the first 2 hours of treatment (p=0.004).
+     - COT: Decreased to normal range after 24 hours.
+   - ABG parameters (Pao2, Paco2, PH):
+     - HFNC: No significant difference in any time points.
+     - COT: No significant difference in any time points.
+   - Complications:
+     - HFNC: Two patients complained of nasal irritation and device-produced heat.
+     - COT: One patient needed more respiratory care due to refractory asthma with an O2 saturation of 85%.
+---
+
+8. Comments:
+   - The study mentions that HFNC could be a therapeutic option for asthma exacerbation among adult patients after considering the patient’s selection. However, the small sample size and single-center setting may limit the generalizability of the findings. Additionally, the significant difference in eosinophil count between the groups at baseline could have influenced the results.
+---

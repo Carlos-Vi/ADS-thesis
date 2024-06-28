@@ -1,0 +1,157 @@
+1. Study reference:
+   - Bremner, 2018
+---
+
+2. Study characteristics:
+   - Type of study: Randomized, double-blind, parallel group, multicenter non-inferiority study
+   - Setting and country: Multicenter, specific countries not mentioned
+   - Funding and conflicts of interest: Funded by GSK (GSK study CTT200812); authors RB, NB, ASI, C-QZ, and DAL are employees of GSK and hold stocks/shares in the company. ASI is also an unpaid faculty member at McMaster University, Canada. PRB has no conflicts of interest to disclose.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Patients aged ≥40 years with COPD, current/former smokers with a ≥10-pack-year smoking history, COPD Assessment Test™ (CAT) score ≥10, post-albuterol/salbutamol FEV1/forced vital capacity ratio < 0.70, post-bronchodilator FEV1 < 50% of predicted and ≥1 moderate/severe exacerbation in the previous 12 months or post-bronchodilator FEV1 ≥50% to < 80% of predicted and ≥2 moderate exacerbations or ≥1 severe exacerbation requiring hospitalization in the previous 12 months.
+   - Exclusion criteria: Current diagnosis of asthma, α1-antitrypsin deficiency, active tuberculosis, other respiratory disorders, lung resection surgery in the previous 12 months, risk factors for pneumonia, unresolved pneumonia and/or moderate/severe exacerbation at least 14 days prior to screening, respiratory infections, abnormal chest X-ray findings, clinically significant comorbidities, unstable liver or cardiac disease, and cancer.
+   - Total number of participants: 1055 (527 in the intervention group, 528 in the control group)
+   - Characteristics at the beginning of the study:
+     - Intervention group (FF/UMEC/VI 100/62.5/25 μg):
+       - Age (years), mean (SD): 66.7 (8.5)
+       - Female, n (%): 136 (26)
+       - Current smoker at screening, n (%): 209 (40)
+       - Smoking pack-years, mean (SD): 43.4 (23.9)
+       - Current cardiovascular risk factors, n (%): 379 (72)
+       - Number of exacerbations in previous 12 months, n (%):
+         - 1 moderate/severe: 236 (45)
+         - ≥2 moderate/severe: 291 (55)
+         - ≥2 moderate or ≥1 severe: 352 (67)
+       - History of pneumonia, n (%): 86 (16)
+       - Screening lung function, mean (SD):
+         - Post-bronchodilator FEV1, mL: 1247 (465)
+         - Post-bronchodilator FVC, mL: 2879 (885)
+         - Post-bronchodilator FEV1/FVC ratio: 0.440 (0.116)
+         - Post-bronchodilator percent predicted FEV1: 44.5 (14.5)
+         - Percent reversibility: 9.02 (11.22)
+       - Number of long-acting bronchodilators per day during the run-in, n (%):
+         - 0/1: 225 (43)
+         - 2: 302 (57)
+       - Concomitant COPD medications taken at screening, n (%):
+         - Single-inhaler maintenance bronchodilator: 40 (8)
+         - LAMA: 32 (6)
+         - LABA: 8 (2)
+         - Combination therapy: 448 (85)
+           - ICS + LABA+LAMA: 198 (38)
+           - ICS + LABA: 144 (27)
+           - LABA+LAMA: 62 (12)
+           - ICS + LABA+LAMA+ xanthine: 29 (6)
+           - ICS + LAMA: 7 (1)
+           - LABA+LAMA+xanthine: 8 (2)
+       - COPD severity at screening GOLD grade, n (%):
+         - 1 (mild): 0
+         - 2 (moderate): 174 (34)
+         - 3 (severe): 251 (49)
+         - 4 (very severe): 90 (17)
+       - Reversible, n (%): 73 (14)
+       - GOLD grade/exacerbation history, n (%):
+         - Grade 1/2 with ≥2 moderate or ≥1 severe: 173 (34)
+         - Grade 3/4 with < 2 moderate and no severe: 171 (33)
+         - Grade 3/4 with ≥2 moderate or ≥1 severe: 170 (33)
+       - CAT score, mean (SD): 19.6 (5.8)
+     - Control group (FF/VI 100/25 μg + UMEC 62.5 μg):
+       - Age (years), mean (SD): 65.9 (8.8)
+       - Female, n (%): 134 (25)
+       - Current smoker at screening, n (%): 192 (36)
+       - Smoking pack-years, mean (SD): 44.2 (25.2)
+       - Current cardiovascular risk factors, n (%): 367 (70)
+       - Number of exacerbations in previous 12 months, n (%):
+         - 1 moderate/severe: 227 (43)
+         - ≥2 moderate/severe: 301 (57)
+         - ≥2 moderate or ≥1 severe: 360 (68)
+       - History of pneumonia, n (%): 100 (19)
+       - Screening lung function, mean (SD):
+         - Post-bronchodilator FEV1, mL: 1297 (471)
+         - Post-bronchodilator FVC, mL: 2896 (849)
+         - Post-bronchodilator FEV1/FVC ratio: 0.455 (0.119)
+         - Post-bronchodilator percent predicted FEV1: 45.5 (14.1)
+         - Percent reversibility: 8.87 (10.15)
+       - Number of long-acting bronchodilators per day during the run-in, n (%):
+         - 0/1: 226 (43)
+         - 2: 302 (57)
+       - Concomitant COPD medications taken at screening, n (%):
+         - Single-inhaler maintenance bronchodilator: 42 (8)
+         - LAMA: 35 (7)
+         - LABA: 7 (1)
+         - Combination therapy: 443 (84)
+           - ICS + LABA+LAMA: 193 (37)
+           - ICS + LABA: 137 (26)
+           - LABA+LAMA: 76 (14)
+           - ICS + LABA+LAMA+ xanthine: 25 (5)
+           - ICS + LAMA: 9 (2)
+           - LABA+LAMA+xanthine: 3 (< 1)
+       - COPD severity at screening GOLD grade, n (%):
+         - 1 (mild): 1 (< 1)
+         - 2 (moderate): 189 (37)
+         - 3 (severe): 253 (49)
+         - 4 (very severe): 69 (13)
+       - Reversible, n (%): 74 (14)
+       - GOLD grade/exacerbation history, n (%):
+         - Grade 1/2 with ≥2 moderate or ≥1 severe: 190 (37)
+         - Grade 3/4 with < 2 moderate and no severe: 164 (32)
+         - Grade 3/4 with ≥2 moderate or ≥1 severe: 158 (31)
+       - CAT score, mean (SD): 20.1 (6.1)
+   - Groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - FF/UMEC/VI 100 μg/62.5 μg/25 μg in a single inhaler and placebo (second inhaler); all treatments/placebo were delivered using the ELLIPTA inhaler once daily in the morning.
+---
+
+5. Comparison/Control:
+   - FF/VI 100 μg/25 μg and UMEC 62.5 μg, in separate inhalers; all treatments/placebo were delivered using the ELLIPTA inhaler once daily in the morning.
+---
+
+6. Follow-up:
+   - Length of follow-up: 24 weeks
+   - Loss-to-follow-up: Not explicitly stated, but 94% of patients completed the study in each treatment group.
+   - Incomplete outcome data: Not explicitly stated, but the mPP population included 478 patients in each group, indicating some data exclusion due to protocol deviations.
+---
+
+7. Outcome measures and effect size:
+   - Primary endpoint: Change from baseline in trough FEV1 at Week 24
+     - Intervention group: 113 mL (95% CI 91, 135)
+     - Control group: 95 mL (95% CI 72, 117)
+     - Between-treatment difference: 18 mL (95% CI -13, 50)
+   - Proportion of responders based on SGRQ Total score at Week 24:
+     - Intervention group: 50%
+     - Control group: 51%
+     - OR of response versus non-response for FF/UMEC/VI versus FF/VI + UMEC: 0.92 (95% CI 0.71, 1.20)
+   - Mean change from baseline in SGRQ Total score at Week 24:
+     - Intervention group: -5.8 (95% CI -7.0, -4.7)
+     - Control group: -4.9 (95% CI -6.1, -3.8)
+     - Between-treatment difference: -0.9 (95% CI -2.5, 0.7)
+   - Proportion of responders based on TDI focal score at Week 24:
+     - Intervention group: 56%
+     - Control group: 56%
+     - OR of response versus non-response for FF/UMEC/VI versus FF/VI + UMEC: 0.95 (95% CI 0.72, 1.25)
+   - Mean TDI focal score at Week 24:
+     - Intervention group: 2.0 (95% CI 1.8, 2.3)
+     - Control group: 1.9 (95% CI 1.6, 2.1)
+     - Between-treatment difference: 0.1 (95% CI -0.2, 0.5)
+   - Proportion of patients experiencing a moderate/severe exacerbation:
+     - Intervention group: 24%
+     - Control group: 27%
+     - Hazard ratio for time to first moderate/severe exacerbation with FF/UMEC/VI versus FF/VI + UMEC: 0.87 (95% CI 0.68, 1.12)
+   - Incidence of adverse events:
+     - Intervention group: 48%
+     - Control group: 48%
+   - Incidence of serious adverse events:
+     - Intervention group: 10%
+     - Control group: 11%
+   - Incidence of pneumonia AESI:
+     - Intervention group: 3%
+     - Control group: 4%
+---
+
+8. Comments:
+   - The study did not explicitly state the reasons for loss-to-follow-up or incomplete outcome data, but the mPP population numbers suggest some data exclusion due to protocol deviations.
+   - The study population was designed to recruit patients with higher disease burden and exacerbation risk, which may account for the higher incidence of adverse events compared to other studies.
+   - The study was double-dummy blind, so the impact on adherence of a simplified single-inhaler triple therapy regimen versus the same treatments delivered using two inhalers could not be directly assessed.
+---

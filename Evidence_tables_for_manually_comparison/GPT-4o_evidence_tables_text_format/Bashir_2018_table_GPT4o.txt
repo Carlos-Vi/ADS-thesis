@@ -1,0 +1,85 @@
+1. Study reference:
+   - Bashir, 2018
+---
+
+2. Study characteristics:
+   - Type of study: Randomised, prospective, double-blind controlled trial
+   - Setting and country: Tertiary care teaching hospital, India
+   - Funding and conflicts of interest: The study does not specify funding sources or conflicts of interest.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Previously healthy infants and children of two months to 18 months of age, admitted with the first episode of respiratory tract infection with wheeze, starting as a viral upper respiratory infection (coryza, cough, or fever), and a clinical score between 4 and 8.
+   - Exclusion criteria: Previous episode of wheezing, chronic cardiopulmonary disease or immunodeficiency, critical illness at presentation requiring admission to intensive care, use of nebulised HS within the previous 12 hours, or premature birth (gestational age <34 weeks).
+   - Total number of participants: 189 (96 in the intervention group, 93 in the control group)
+   - Characteristics at the beginning of the study:
+     - Intervention group (3% HS):
+       - Male sex: 62 (64.6%)
+       - Age in months: 4.0 (2.63-8.0)
+       - Family history of asthma: 3 (3.1%)
+       - Fever: 2.82 (0.71)
+       - Cough: 2.54±0.61
+       - Noisy breathing: 1.63±0.60
+       - Cold: 2.93±0.73
+       - Fast breathing: 1.29±0.457
+       - Respiratory rate (RR): 66 (2.71)
+       - SPO2: 94 (0.86)
+       - Hemoglobin (Hb): 11.94 (1.07) g/dL
+       - Total leukocyte count (TLC): 7751.76 (1715.40) per mm3
+     - Control group (0.9% NS):
+       - Male sex: 65 (69.9%)
+       - Age in months: 4.0 (2.0-7.0)
+       - Family history of asthma: 1 (1.1%)
+       - Fever: 2.74±0.77
+       - Cough: 2.58±0.68
+       - Noisy breathing: 1.57±0.56
+       - Cold: 3.05±0.60
+       - Fast breathing: 1.23±0.420
+       - Respiratory rate (RR): 67 (2.46)
+       - SPO2: 95 (0.82)
+       - Hemoglobin (Hb): 12.16 (1.10) g/dL
+       - Total leukocyte count (TLC): 7545.68 (1604.94) per mm3
+   - Comparability: The groups were comparable at the beginning of the experiment as there were no statistically significant differences in the demographic and clinical features.
+---
+
+4. Intervention:
+   - The intervention group received 4 mL of nebulised 3% hypertonic saline (HS) solution. The solution was administered every two hours for three doses, followed by every four hours for six doses, and then every six hours until discharge. The study solution was prepared to have an identical appearance to the control solution, and the identity of the study solutions was blinded to all participants, care providers, and investigators.
+---
+
+5. Comparison/Control:
+   - The control group received 4 mL of nebulised 0.9% normal saline (NS) solution. The solution was administered every two hours for three doses, followed by every four hours for six doses, and then every six hours until discharge. The study solution was prepared to have an identical appearance to the intervention solution, and the identity of the study solutions was blinded to all participants, care providers, and investigators.
+---
+
+6. Follow-up:
+   - Length of follow-up: The follow-up lasted until the patients were discharged from the hospital.
+   - Loss-to-follow-up: 5 infants (one from the HS group and four from the NS group) were withdrawn before study completion but were included in the final intention-to-treat analysis.
+   - Incomplete outcome data: The study does not specify any incomplete outcome data beyond the loss-to-follow-up mentioned above.
+---
+
+7. Outcome measures and effect size:
+   - Reduction in clinical severity score:
+     - 3% HS group: 2.26 (0.684)
+     - 0.9% NS group: 1.23 (0.492)
+     - p-value: <0.001
+   - Length of hospital stay (LOS):
+     - 3% HS group: 1.45 (0.540) days
+     - 0.9% NS group: 2.35 (0.619) days
+     - Mean difference: 0.91 (0.084) days
+     - p-value: <0.001
+   - Comparison of clinical severity score (RIS):
+     - 3% HS group: Mean (SD) 2.26 (0.684)
+     - 0.9% NS group: Mean (SD) 1.23 (0.492)
+     - p-value: <0.001
+   - Comparison of LOS:
+     - 3% HS group: Mean (SD) 1.45 (0.540) days
+     - 0.9% NS group: Mean (SD) 2.35 (0.619) days
+     - p-value: <0.001
+   - Radiological features (CXR):
+     - 3% HS group: Hyperinflation and patchy atelectasis: 73 (76.0%), No abnormality detected: 23 (24.0%)
+     - 0.9% NS group: Hyperinflation and patchy atelectasis: 61 (65.6%), No abnormality detected: 32 (34.4%)
+     - p-value: 0.114
+---
+
+8. Comments:
+   - The study demonstrates that 3% HS nebulisation is safe and effective for treating acute bronchiolitis in infants and children up to 18 months, reducing both the length of hospital stay and clinical severity score. However, the study's limitations include a small sample size and being conducted at a single center. Further studies with larger sample sizes are needed to confirm these findings.
+---

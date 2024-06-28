@@ -1,0 +1,115 @@
+1. Study reference:
+   - Uysalol, 2017
+---
+
+2. Study characteristics:
+   - Type of study: Double-blind randomized prospective clinical trial
+   - Setting and country: Pediatric Emergency Department, Istanbul University Istanbul Faculty of Medicine, Turkey
+   - Funding and conflicts of interest: Information not provided
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Children with acute bronchiolitis (AB) aged between 2-24 months with a score as moderate (4-8) in the bronchiolitis clinical score (BCS) system.
+   - Exclusion criteria: Younger than 2 months old, prematurity (less than 36th gestational week), low birth weight (less than 2,500 g), history of admission in neonatal intensive care unit due to respiratory distress, history of intubation in the intensive care unit, congenital heart/lung/neurologic or immunologic disease, history of atopic disease or recurrent wheezing, clinical or radiologic findings of bacterial infections, atelectasis or consolidations on X-ray, and refusal to consent by parents.
+   - Total number of participants: 378 infants
+     - Intervention groups: 3% hypertonic saline (77), nebulized adrenaline (75), nebulized adrenaline mixed with 3% hypertonic saline (75), nebulized salbutamol (72)
+     - Control group: Normal saline (79)
+   - Characteristics at the beginning of the study:
+     - Mean age: 7.63 ± 4.6 months
+     - Sex: 54.8% male (207 boys)
+     - Weight (kg): 
+       - HS: 8.5 (7-10)
+       - ADR: 8.2 (7-10)
+       - Salbutamol: 8.25 (7-11)
+       - ADR+HS: 8.2 (7-10)
+       - NS: 8.3 (7-10)
+     - Temperature (°C):
+       - HS: 37.5 (36.4-38.2)
+       - ADR: 37.5 (36.4-38.2)
+       - Salbutamol: 37.65 (37.5-38.2)
+       - ADR+HS: 37.5 (36.4-38.2)
+       - NS: 37.5 (36.3-38.1)
+     - Duration of URTI symptoms (days):
+       - HS: 5 (4-5)
+       - ADR: 5 (4-5)
+       - Salbutamol: 5 (4-5)
+       - ADR+HS: 5 (4-5)
+       - NS: 5 (4-5)
+     - Duration of wheezing (days):
+       - HS: 2 (2-3)
+       - ADR: 2 (1-3)
+       - Salbutamol: 2 (2-3)
+       - ADR+HS: 2 (1-3)
+       - NS: 2 (2-3)
+   - Groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - Group HS: 4 ml of 3% hypertonic saline
+   - Group ADR: 4 ml normal saline with adrenaline 0.1 mg/kg
+   - Group ADR+HS: 4 ml of 3% hypertonic saline with adrenaline 0.1 mg/kg/dose
+   - Group Salbutamol: Nebulized salbutamol 0.15 mg/kg with 4 ml normal saline
+   - Drugs were administered by means of standard hospital nebulizers through a firmly applied face mask with an oxygen flow of 6 liters per minute within 6-8 minutes. Administered at 0, 30, and 60 minutes, and every 4 hours thereafter if needed to a maximum of 24 hours.
+---
+
+5. Comparison/Control:
+   - Group NS: 5 ml normal saline (0.9% NaCl)
+   - Administered by means of standard hospital nebulizers through a firmly applied face mask with an oxygen flow of 6 liters per minute within 6-8 minutes. Administered at 0, 30, and 60 minutes, and every 4 hours thereafter if needed to a maximum of 24 hours.
+---
+
+6. Follow-up:
+   - Length of follow-up: 24 hours for discharge status, 15 days for readmission rates
+   - Loss-to-follow-up: Not explicitly stated
+   - Incomplete outcome data: 
+     - 2 in HS group, 1 in ADR group, 2 in Salbutamol group, and 3 in NS group were excluded during the study due to BCS deterioration worse than 9.
+---
+
+7. Outcome measures and effect size:
+   - Discharge rate at 4 hours:
+     - HS: 37/77 (48.1%)
+     - ADR: 42/75 (56.0%)
+     - Salbutamol: 27/72 (37.5%)
+     - ADR+HS: 52/75 (69.3%)
+     - NS: 29/79 (36.7%)
+     - Total: 187/378 (49.5%)
+     - p<0.001
+   - Discharge rate at 24 hours:
+     - HS: 69/77 (89.6%)
+     - ADR: 66/75 (88.0%)
+     - Salbutamol: 63/72 (87.5%)
+     - ADR+HS: 71/75 (94.7%)
+     - NS: 66/79 (83.5%)
+     - Total: 335/378 (88.6%)
+     - p=0.294
+   - Length of hospital stay (hours):
+     - HS: 8 (12)
+     - ADR: 4 (12)
+     - Salbutamol: 16 (20)
+     - ADR+HS: 4 (8)
+     - NS: 16 (20)
+     - Total: 10 (16)
+     - p=0.039
+   - Readmission rate within first 15 days:
+     - HS: 14/77 (18.2%)
+     - ADR: 14/75 (18.7%)
+     - Salbutamol: 19/72 (26.4%)
+     - ADR+HS: 14/75 (18.7%)
+     - NS: 20/79 (25.3%)
+     - Total: 81/378 (21.4%)
+     - p=0.571
+   - Adverse events (tachycardia, pallor, tremor, nausea, vomiting):
+     - HS: 0 (0%)
+     - ADR: 7/75 (9.3%)
+     - Salbutamol: 7/72 (9.7%)
+     - ADR+HS: 5/75 (6.7%)
+     - NS: 2/79 (2.5%)
+     - Total: 21/378 (5.6%)
+     - p=0.079
+---
+
+8. Comments:
+   - The study did not provide information on funding and conflicts of interest.
+   - Loss-to-follow-up and incomplete outcome data were not explicitly stated, requiring inference from participant numbers.
+   - The study was not powered to detect differences in secondary outcome measures.
+   - The fixed schedule for drug administration may have influenced clinical recovery, but this was not explicitly addressed in the study.
+---

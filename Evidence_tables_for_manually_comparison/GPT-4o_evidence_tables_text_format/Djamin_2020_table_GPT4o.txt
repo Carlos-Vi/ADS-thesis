@@ -1,0 +1,104 @@
+1. Study reference:
+   - Djamin, 2020
+---
+
+2. Study characteristics:
+   - Type of study: Randomised, double-blind, placebo-controlled trial
+   - Setting and country: Amphia Hospital, Breda, The Netherlands
+   - Funding and conflicts of interest: This investigator-initiated study was funded by a trust called SoLong, which is associated with the department of respiratory medicine of the Amphia hospital in the Netherlands. The trust had no role in the design of the study, nor in analysis, interpretation of data or in writing the manuscript. The authors declare that they have no competing interests.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Adult patients (≥18 years) with a diagnosis of COPD who had received treatment for three or more exacerbations in the previous year.
+   - Exclusion criteria: Not explicitly stated in the document.
+   - Total number of participants: 92 patients
+     - Intervention group: 45 patients
+     - Control group: 47 patients
+   - Characteristics at the beginning of the study:
+     - Azithromycin group (n = 45):
+       - Male: 22 (46.8%)
+       - Age (years): 64.7 (10.2)
+       - Current smoker: 20 (43%)
+       - AECOPD in past year: 4.0 (1.2)
+       - Hospitalisation due to AECOPD: 1.0 (1.1)
+       - Spirometry after bronchodilation:
+         - FEV1 (L): 1.1 (0.47)
+         - FEV1 (% of predicted): 44.2 (19.3)
+         - FVC (L): 2.9 (0.8)
+         - FVC (% of predicted): 92.5 (22.2)
+         - FEV1/FVC (%): 38.0 (11.7)
+       - GOLD stages:
+         - I: 2 (4.3%)
+         - II: 14 (29.8%)
+         - III: 18 (38.3%)
+         - IV: 13 (27.7%)
+     - Placebo group (n = 47):
+       - Male: 18 (40%)
+       - Age (years): 64.9 (10.2)
+       - Current smoker: 9 (20%)
+       - AECOPD in past year: 4.0 (1.1)
+       - Hospitalisation due to AECOPD: 0.7 (0.8)
+       - Spirometry after bronchodilation:
+         - FEV1 (L): 1.1 (0.43)
+         - FEV1 (% of predicted): 45.0 (19.5)
+         - FVC (L): 2.7 (0.92)
+         - FVC (% of predicted): 88.9 (20.3)
+         - FEV1/FVC (%): 40.3 (12.4)
+       - GOLD stages:
+         - I: 3 (6.7%)
+         - II: 12 (26.7%)
+         - III: 20 (44.4%)
+         - IV: 10 (22.2%)
+   - Comparability: The groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - Patients in the intervention group received 500 mg azithromycin three times a week for 12 months.
+---
+
+5. Comparison/Control:
+   - Patients in the control group received a placebo three times a week for 12 months.
+---
+
+6. Follow-up:
+   - Length of follow-up: 12 months
+   - Loss-to-follow-up: 
+     - Placebo group: 11 patients (23.4%) did not have throat samples taken at regular visits due to no permission granted for extra throat swabs.
+     - Azithromycin group: 1 patient (2.2%) did not have throat samples taken at regular visits due to no permission granted for extra throat swabs.
+   - Incomplete outcome data:
+     - Placebo group: At baseline, 36 patients had throat samples taken. At month 6, 30 samples were available. At month 12, 27 samples were available.
+     - Azithromycin group: At baseline, 44 patients had throat samples taken. At month 6, 34 samples were available. At month 12, 32 samples were available.
+---
+
+7. Outcome measures and effect size:
+   - Prevalence of macrolide resistance genes (ermF and ermB) over time:
+     - Baseline:
+       - Placebo group: ermF: 44.4% (16/36), ermB: 86.1% (31/36)
+       - Azithromycin group: ermF: 59.1% (26/44), ermB: 97.7% (43/44)
+     - Month 6:
+       - Placebo group: ermF: 43.3% (13/30), ermB: 80.0% (24/30)
+       - Azithromycin group: ermF: 67.6% (23/34), ermB: 97.1% (33/34)
+     - Month 12:
+       - Placebo group: ermF: 48.1% (13/27), ermB: 74.1% (20/27)
+       - Azithromycin group: ermF: 68.8% (22/32), ermB: 100.0% (32/32)
+   - Loss and acquisition of macrolide resistance genes:
+     - No differences in the presence of the mefA gene in the pharyngeal microbiota.
+     - Loss of ermB gene was statistically significant higher in the placebo group compared to the azithromycin group (p = 0.012).
+   - Relative gene abundances of macrolide-resistant genes:
+     - mefA:
+       - Month 6: Placebo: -0.22 (n = 27), Azithromycin: 0.51 (n = 34), p = 0.0001
+       - Month 12: Placebo: -0.39 (n = 26), Azithromycin: 0.33 (n = 30), p = 0.002
+     - ermF:
+       - Month 6: Placebo: -0.14 (n = 11), Azithromycin: 0.86 (n = 18), p = 0.0687
+       - Month 12: Placebo: 0.15 (n = 12), Azithromycin: 1.04 (n = 17), p = 0.0124
+     - ermB:
+       - Month 6: Placebo: -0.32 (n = 20), Azithromycin: 0.69 (n = 33), p = 0.0116
+       - Month 12: Placebo: -0.42 (n = 18), Azithromycin: 0.89 (n = 30), p = 0.0013
+---
+
+8. Comments:
+   - The study showed a high prevalence of macrolide-resistance genes at baseline, which may be due to historical exposure to antibiotics in the study population.
+   - The clinical implications of the increased relative abundance of macrolide resistance genes in the azithromycin group are unclear.
+   - The study did not culture throat samples to assess changes in the microbiological profile and resistance patterns.
+   - The study focused on three specific macrolide resistance genes, but other genes and mutations may also be involved in macrolide resistance.
+---

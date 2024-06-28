@@ -1,0 +1,77 @@
+1. Study reference:
+   - Skjerven, 2013
+---
+
+2. Study characteristics:
+   - Type of study: Randomized, double-blind trial with a 2-by-2 factorial design.
+   - Setting and country: Conducted in eight hospitals in southeastern Norway.
+   - Funding and conflicts of interest: Funded by Medicines for Children, a publicly funded body administered by Haukeland University Hospital. No conflicts of interest were reported.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: Clinical signs of bronchiolitis as defined by Court, age less than 12 months, and an overall clinical score of at least 4 on a scale of 0 to 10.
+   - Exclusion criteria: Serious cardiac, immunologic, neurologic, or oncologic disease; serious pulmonary disease other than bronchiolitis; more than one previous episode of obstructive airway disease; symptoms of lower airway disease for more than 4 weeks; receipt of glucocorticoid therapy in the preceding 4 weeks.
+   - Total number of participants: 404 infants
+     - Intervention group (inhaled racemic adrenaline): 203 infants
+     - Control group (inhaled saline): 201 infants
+   - Characteristics at the beginning of the study:
+     - Mean age: 4.2 months
+     - Sex: 59.4% boys
+     - Clinical score: 4.9±1.0 (all groups)
+     - SpO2: 96.0±3.6 (on demand racemic adrenaline), 96.0±3.3 (fixed schedule racemic adrenaline), 96.0±3.4 (on demand saline), 96.1±2.8 (fixed schedule saline)
+     - Respiratory rate: 53.1±11.8 (on demand racemic adrenaline), 53.6±10.5 (fixed schedule racemic adrenaline), 53.8±11.3 (on demand saline), 53.4±11.1 (fixed schedule saline)
+     - Heart rate: 154.5±17.5 (on demand racemic adrenaline), 156.0±18.7 (fixed schedule racemic adrenaline), 155.2±19.9 (on demand saline), 153.7±17.7 (fixed schedule saline)
+   - Groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - Infants in the intervention group received inhaled racemic adrenaline. The dose was based on the infant’s weight: 0.10 ml for infants weighing less than 5 kg, 0.15 ml for those weighing 5 to 6.9 kg, 0.20 ml for those weighing 7 to 9.9 kg, and 0.25 ml for those weighing 10 kg or more. The medications were diluted in 2 ml of saline before nebulization and were administered through a Sidestream Reusable Nebulizer with a Respironics Facemask, driven by 100% oxygen at a rate of 6 liters per minute. The inhalations were given either on demand or on a fixed schedule (up to every 2 hours).
+---
+
+5. Comparison/Control:
+   - Infants in the control group received inhaled saline. The dose was 0.9% saline alone, diluted in 2 ml of saline before nebulization, and administered through a Sidestream Reusable Nebulizer with a Respironics Facemask, driven by 100% oxygen at a rate of 6 liters per minute. The inhalations were given either on demand or on a fixed schedule (up to every 2 hours).
+---
+
+6. Follow-up:
+   - Length of follow-up: Until discharge from the hospital.
+   - Loss-to-follow-up: 83 children (20.5%) discontinued the study.
+     - Intervention group: 36/203 (17.7%) discontinued (12 had treatment failure, 2 had side effects, 4 were withdrawn by parent, 1 was inappropriately withdrawn)
+     - Control group: 47/201 (23.4%) discontinued (15 had treatment failure, 1 had side effects, 3 were withdrawn by parent, 1 was inappropriately withdrawn)
+   - Incomplete outcome data: Not explicitly stated, but inferred from the number of participants who discontinued the study.
+---
+
+7. Outcome measures and effect size:
+   - Length of stay:
+     - Inhaled racemic adrenaline: Mean 78.7 hours (range 69.2 to 88.1)
+     - Inhaled saline: Mean 81.8 hours (range 72.6 to 91.0)
+     - On demand: Mean 73.9 hours (range 64.6 to 83.2)
+     - Fixed schedule: Mean 86.5 hours (range 77.1 to 95.8)
+     - Estimated length of stay: Racemic adrenaline 63.6 hours (range 46.2 to 81.0), Saline 68.1 hours (range 49.8 to 86.4), On demand 47.6 hours (range 30.6 to 64.6), Fixed schedule 61.3 hours (range 45.4 to 77.2)
+     - P-value for racemic adrenaline vs. saline: 0.42
+     - P-value for on demand vs. fixed schedule: 0.01
+   - Change in clinical score after 1 inhalation:
+     - Racemic adrenaline: -1.26 (range -1.44 to -1.08)
+     - Saline: -1.08 (range -1.23 to -0.92)
+     - On demand: -1.18 (range -1.35 to -1.02)
+     - Fixed schedule: -1.16 (range -1.33 to -0.98)
+   - Number of inhalations:
+     - Racemic adrenaline: Mean 13.9 (range 12.1 to 15.7)
+     - Saline: Mean 15.2 (range 13.2 to 17.2)
+     - On demand: Mean 12.0 (range 10.3 to 13.6)
+     - Fixed schedule: Mean 17.0 (range 15.0 to 19.1)
+     - P-value for on demand vs. fixed schedule: <0.001
+   - Supportive therapy:
+     - Oxygen: Racemic adrenaline 43.2%, Saline 43.9%, On demand 38.3%, Fixed schedule 48.7%, P-value for on demand vs. fixed schedule: 0.04
+     - Nasogastric-tube feeding: Racemic adrenaline 28.4%, Saline 29.6%, On demand 26.3%, Fixed schedule 31.7%
+     - Ventilatory support: Racemic adrenaline 7.4%, Saline 7.5%, On demand 4.0%, Fixed schedule 10.8%, P-value for on demand vs. fixed schedule: 0.01
+   - Discontinued treatment: Racemic adrenaline 17.7%, Saline 23.4%, On demand 18.5%, Fixed schedule 22.5%
+---
+
+8. Comments:
+   - The study found no significant difference in the effectiveness of inhaled racemic adrenaline compared to inhaled saline in reducing the length of hospital stay or other clinical outcomes.
+   - The administration of inhalations on demand was found to be superior to a fixed schedule in reducing the length of hospital stay and the need for supportive treatments.
+   - There was a significant interaction between age and treatment efficacy, with younger infants showing a longer hospital stay.
+   - No serious adverse events were reported, but moderate tachycardia was noted in three children, including one receiving inhaled saline.
+   - The study was sufficiently powered to detect a 5-hour difference in length of stay and included a nationally representative patient cohort.
+   - The actual time of discharge was used as the endpoint for length of stay due to incomplete recording of the initially planned endpoint.
+---

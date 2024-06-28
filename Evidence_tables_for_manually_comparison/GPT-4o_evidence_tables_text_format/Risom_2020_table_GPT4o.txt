@@ -1,0 +1,92 @@
+1. Study reference:
+   - Risom, 2020
+---
+
+2. Study characteristics:
+   - Type of study: Randomized Controlled Trial (RCT)
+   - Setting and country: The Heart Centre, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark; University College Copenhagen, Copenhagen, Denmark; University of Copenhagen, Copenhagen, Denmark; University of Southern Denmark and University Hospital Odense, Denmark; Herlev and Gentofte University Hospital, Hellerup, Denmark; University of Southern Denmark, Copenhagen, Denmark; University of Exeter Medical School, Exeter, United Kingdom; University of Glasgow, Glasgow, United Kingdom; The Danish National Research Foundation Centre for Cardiac Arrhythmia (DARC), Copenhagen, Denmark.
+   - Funding and conflicts of interest: Supported by the Danish Strategic Research Council (journal no.: 10-092790); the Heart Centre Copenhagen University Hospital, Rigshospitalet; Metropolitan University College (now University College Copenhagen); the Lundbeck Foundation (journal no.: F-22911-02); the Danish Heart Foundation (journal no.: 16-R107-A6736); The Danish Health Foundation (journal no.: 15-B-0114); and Aase og Ejnar Danielsens Foundation (journal no.: 10-001908). Jesper Hastrup Svendsen received grants, personal fees, and other support from Medtronic and grants from Gilead, outside the submitted work. The other authors have nothing to disclose.
+---
+
+3. Patient characteristics:
+   - Inclusion criteria: ≥18 years of age, Danish speaking, providing signed informed consent.
+   - Exclusion criteria: Unable to understand trial instructions, pregnant or breastfeeding, reduced ability to follow the planned program due to other physical illness, engaged in intense physical exercise or sports at a competitive level, patients who did not wish to participate, or were enrolled in a clinical trial that prohibited participation in additional trials.
+   - Total number of participants: 210 (Intervention group: 105, Control group: 105)
+   - Characteristics at the beginning of the study:
+     - Intervention group: 
+       - Number of participants: 105
+       - Sex: 74% men
+       - Mean age: 59 years
+       - Type of AF: 74% paroxysmal AF
+       - Symptoms: Palpitations, dyspnea, dizziness, fatigue
+     - Control group:
+       - Number of participants: 105
+       - Sex: 74% men
+       - Mean age: 59 years
+       - Type of AF: 74% paroxysmal AF
+       - Symptoms: Palpitations, dyspnea, dizziness, fatigue
+   - Comparability: The groups were comparable at the beginning of the experiment.
+---
+
+4. Intervention:
+   - A 6-month cardiac rehabilitation program consisting of physical exercise and psychoeducational consultations plus usual care. The physical exercise program was a 12-week program aimed at increasing exercise capacity, initiated with one mandatory training session at the hospital by trial physical therapists. The following program was offered at a local trial-protocol-certified supervised hospital, the municipality where the patient lived, or home-based training. The training program consisted of graduated cardiovascular training based on intensity prescription using the Borg 15-point scale and strength exercises altered stepwise during training sessions. The psychoeducational consultations aimed to provide emotional support and improve coping skills and illness appraisal to enable the patients to respond appropriately to physical and psychological symptoms. Education and information about AF prepared the patients for expected symptoms. The psychoeducational consultations were inspired by R.R. Parse’s Human Becoming Practice Methodology and complied with recommendations on the use of patient education and psychosocial support in secondary prevention. Patients were offered four consultations face-to-face or by telephone over six months with a nurse.
+---
+
+5. Comparison/Control:
+   - Usual care alone.
+---
+
+6. Follow-up:
+   - Length of follow-up: 12 and 24 months
+   - Loss-to-follow-up:
+     - Intervention group: 6 participants (5.7%) at 24 months
+     - Control group: 5 participants (4.8%) at 24 months
+     - Reasons: Not explicitly stated
+   - Incomplete outcome data:
+     - Intervention group: 67 participants completed the exercise capacity testing at 12 months, 78 participants completed the MCS at 24 months
+     - Control group: 72 participants completed the exercise capacity testing at 12 months, 81 participants completed the MCS at 24 months
+     - Reasons: Not explicitly stated
+---
+
+7. Outcome measures and effect size:
+   - Exercise capacity (VO2peak) at 12 months:
+     - Intervention group: 25.82 mL/kg/min
+     - Control group: 22.43 mL/kg/min
+     - P-value: 0.003
+   - Anxiety (HADS-A) at 24 months:
+     - Intervention group: 12%
+     - Control group: 24%
+     - P-value: 0.004
+   - Mortality at 24 months:
+     - Intervention group: 1 (1%)
+     - Control group: 1 (1%)
+     - P-value: >0.99
+   - Hospital admissions at 24 months:
+     - Intervention group: 71 (68%)
+     - Control group: 60 (57%)
+     - P-value: 0.12
+   - Total number of admissions:
+     - Intervention group: 327 (mean 4.6)
+     - Control group: 247 (mean 4.1)
+     - P-value: 0.51
+   - Elective admissions:
+     - Intervention group: 46 (44%)
+     - Control group: 44 (42%)
+     - P-value: 0.78
+   - Acute admissions:
+     - Intervention group: 62 (59%)
+     - Control group: 50 (48%)
+     - P-value: 0.10
+   - Emergency department contacts:
+     - Intervention group: 60 (57%)
+     - Control group: 52 (50%)
+     - P-value: 0.27
+   - Admissions due to AF:
+     - Intervention group: 59 (57%)
+     - Control group: 55 (52%)
+     - P-value: 0.58
+---
+
+8. Comments:
+   - The study did not find significant differences in mortality or hospital admissions between the intervention and control groups at 24 months. The reasons for loss-to-follow-up and incomplete outcome data were not explicitly stated, which could introduce some bias. Additionally, the study did not account for whether patients were in sinus rhythm or AF during follow-up, which could affect the interpretation of results.
+---
