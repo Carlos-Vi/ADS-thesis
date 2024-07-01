@@ -1,4 +1,4 @@
-# Filling in evidence tables from medical studies with GPT-4o
+# Filling in evidence tables with GPT-4o
 
 This repository contains the data and the code used to generate the results contained in my master's thesis. The folder named "Data" contains the human curated evidence tables in Word format divided into a training dataset and a test dataset. The training dataset was used to iteratively improve the prompt given to the LLM and the test dataset to generate the evidence tables that were used to evaluate the results by comparing them with the manually curated ones.
 
